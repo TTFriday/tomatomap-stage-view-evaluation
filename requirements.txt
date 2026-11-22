@@ -1,0 +1,9 @@
+# Versions observed in the archived Python 3.10.9 environment.
+# Recorded CUDA build: torch 2.6.0+cu124, torchvision 0.21.0+cu124.
+torch==2.6.0
+torchvision==0.21.0
+ultralytics==8.4.213
+numpy==2.2.6
+scipy==1.15.3
+pillow==9.4.0
+PyYAML==6.0

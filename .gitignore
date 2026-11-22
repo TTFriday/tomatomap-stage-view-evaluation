@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+data/
+work/weights/
+work/tm_yolo/settings/
+work/tm_yolo/tables/
+work/tm_yolo/drift_schedule.csv
+work/tm_yolo/labels/
+work/tm_yolo/images/
+.DS_Store

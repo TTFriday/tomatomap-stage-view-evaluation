@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite these code and numerical artifacts and the upstream TomatoMAP descriptor and dataset."
+type: software
+title: "TomatoMAP stage-view evaluation: code and numerical artifacts"
+authors:
+  - family-names: Tu
+    given-names: Lifen
+    orcid: "https://orcid.org/0000-0002-5774-8138"
+  - family-names: Peng
+    given-names: Qi
+    orcid: "https://orcid.org/0000-0002-5693-0480"
+references:
+  - type: article
+    title: "Upstream TomatoMAP data descriptor"
+    doi: "10.1038/s41597-026-06926-9"
+  - type: data
+    title: "Upstream TomatoMAP dataset"
+    doi: "10.5447/ipk/2025/14"
+    license: CC-BY-4.0

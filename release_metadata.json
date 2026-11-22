@@ -1,0 +1,1390 @@
+{
+  "repository": "tomatomap-stage-view-evaluation",
+  "owner": "TTFriday",
+  "repository_url": "https://github.com/TTFriday/tomatomap-stage-view-evaluation",
+  "status": "public source release",
+  "software_doi": null,
+  "software_license": null,
+  "authors": [
+    {
+      "name": "Lifen Tu",
+      "orcid": "0000-0002-5774-8138",
+      "email": "iteachtu@hbeu.edu.cn"
+    },
+    {
+      "name": "Qi Peng",
+      "orcid": "0000-0002-5693-0480",
+      "email": "petersky0316@hbeu.edu.cn",
+      "corresponding": true
+    }
+  ],
+  "upstream": {
+    "descriptor_doi": "10.1038/s41597-026-06926-9",
+    "dataset_doi": "10.5447/ipk/2025/14",
+    "data_license": "CC BY 4.0",
+    "data_license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_scope": "Upstream data attribution only. Source photographs are not included; no additional photographic or third-party permissions are granted."
+  },
+  "results_scope": [
+    "T3",
+    "T4",
+    "T5",
+    "T6",
+    "T10*",
+    "T11*",
+    "T12*",
+    "T16",
+    "T17",
+    "T18"
+  ],
+  "path_conventions": {
+    "source_default": "data/TomatoMAP",
+    "source_environment": "TOMATOMAP_DATA_ROOT",
+    "work": "work/tm_yolo",
+    "pretrained_weights": "work/weights",
+    "new_tables": "work/tm_yolo/tables",
+    "archived_tables": "tables"
+  },
+  "provenance_notes": [
+    "All CSV/JSON numerical values are retained. Original per-table src columns were removed; the original numerical inputs are fingerprinted below without unavailable machine paths.",
+    "Unavailable run-directory fields are omitted from prediction metadata. Archived paired image lists contain package-relative paths.",
+    "Descriptions, runtime messages and support notes are English; internal task/lab-log references are excluded.",
+    "Class order, protocol algorithms and AP formulas are retained. Full-view overlap is descriptive; cam2 alone enters training and validation."
+  ],
+  "initial_weights": [
+    {
+      "filename": "yolo11n.pt",
+      "bytes": 5613764,
+      "sha256": "0ebbc80d4a7680d14987a577cd21342b65ecfd94632bd9a8da63ae6417644ee1",
+      "included": false,
+      "official_resource": "https://huggingface.co/Ultralytics/YOLO11/resolve/main/yolo11n.pt"
+    },
+    {
+      "filename": "yolo11s.pt",
+      "bytes": 19313732,
+      "sha256": "85a76fe86dd8afe384648546b56a7a78580c7cb7b404fc595f97969322d502d5",
+      "included": false,
+      "official_resource": "https://huggingface.co/Ultralytics/YOLO11/resolve/main/yolo11s.pt"
+    }
+  ],
+  "archived_input_fingerprints": [
+    {
+      "run": "broken__per_plant__yolo11s__img800__e60__b16__b4",
+      "filename": "eval_bbch_tertile__last.csv",
+      "bytes": 320,
+      "sha256": "2cc8b509b291cc8e37dd099c31ef499270bf457329eb6235f20568d1aade40c5",
+      "included": false
+    },
+    {
+      "run": "broken__per_plant__yolo11s__img800__e60__b16__b4",
+      "filename": "eval_stage_offset__last.csv",
+      "bytes": 495,
+      "sha256": "df0b497c701756cc124142ffe8a7ef81af37ac3e9b7d72884230a0a30684ee53",
+      "included": false
+    },
+    {
+      "run": "broken__per_plant__yolo11s__img800__e60__b16__b4",
+      "filename": "eval_bbch_bucket__last.csv",
+      "bytes": 603,
+      "sha256": "46b42afd9fa24e1c0bb08e6d5081b70a8f9fd461a4ec4447b7a297fca8ac7383",
+      "included": false
+    },
+    {
+      "run": "broken__random_img__yolo11s__img800__e60__b16__b4",
+      "filename": "eval_bbch_tertile__last.csv",
+      "bytes": 321,
+      "sha256": "6119c193a1a71557f05a0058658a4cb01ee9deea100f2f53365a9ab86d19a4f7",
+      "included": false
+    },
+    {
+      "run": "broken__random_img__yolo11s__img800__e60__b16__b4",
+      "filename": "eval_stage_offset__last.csv",
+      "bytes": 498,
+      "sha256": "2b20ddb6d8f2c1f8cf62f13cb833c8fb870f9c5e3d4aa5baf2e955feafab4c70",
+      "included": false
+    },
+    {
+      "run": "broken__random_img__yolo11s__img800__e60__b16__b4",
+      "filename": "eval_bbch_bucket__last.csv",
+      "bytes": 605,
+      "sha256": "1a42a074df5623c9f25d2291031627046bf3f0453a9db1dfe8cf684612e4f4d3",
+      "included": false
+    },
+    {
+      "run": "per_plant__yolo11n__img640__e200__b16__off_n640",
+      "filename": "eval_bbch_tertile__last.csv",
+      "bytes": 296,
+      "sha256": "a94d215b63076e1804ad2a9522ac72a5204bf815294306929c24125a5917b3e1",
+      "included": false
+    },
+    {
+      "run": "per_plant__yolo11n__img640__e200__b16__off_n640",
+      "filename": "eval_stage_offset__last.csv",
+      "bytes": 452,
+      "sha256": "378a13a1052061645712e7edcb43ad5b11a091342eae21d0a7877ea352588eae",
+      "included": false
+    },
+    {
+      "run": "per_plant__yolo11n__img640__e200__b16__off_n640",
+      "filename": "eval_bbch_bucket__last.csv",
+      "bytes": 553,
+      "sha256": "ecda8f63d4eace9eeeb3716723537641446fe75a259e42c769fba75e6fb7aa9a",
+      "included": false
+    },
+    {
+      "run": "per_plant__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_tertile__last.csv",
+      "bytes": 295,
+      "sha256": "014a85731c51e83dc38fc41092c246a6b40d352edc3ffc68c38c779a33f50d98",
+      "included": false
+    },
+    {
+      "run": "per_plant__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_stage_offset__last.csv",
+      "bytes": 453,
+      "sha256": "0e13092b05ddb5bd2df718534ccd94ca96128ece4badfa0800e0f6ebdfbe6cc1",
+      "included": false
+    },
+    {
+      "run": "per_plant__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_bucket__last.csv",
+      "bytes": 1958,
+      "sha256": "bec5a2ae0ba82b9aa014f1fcbcaca217a663b14dd275fd985534cf5095ad8e0e",
+      "included": false
+    },
+    {
+      "run": "per_set__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_tertile__last.csv",
+      "bytes": 922,
+      "sha256": "33ae3ca7c4bcf71940dad32add168735e712a4b4a2bdbaeed6025fea30b5e0b1",
+      "included": false
+    },
+    {
+      "run": "per_set__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_stage_offset__last.csv",
+      "bytes": 1515,
+      "sha256": "159129b445f17ac25d399cd3b5dbef17d55a5f95cfd67633098823f672e5d474",
+      "included": false
+    },
+    {
+      "run": "per_set__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_bucket__last.csv",
+      "bytes": 1902,
+      "sha256": "b38fd9b7196817eff75a1dd80ca925867fe4d1603b5efbae703bd599d1ace4e2",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11n__img640__e200__b16__off_n640",
+      "filename": "eval_bbch_tertile__last.csv",
+      "bytes": 297,
+      "sha256": "f0b973f5b254d4b6c9506c7832b1881baf6d9d25816ecdcd2aea1a9fd1a4a912",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11n__img640__e200__b16__off_n640",
+      "filename": "eval_stage_offset__last.csv",
+      "bytes": 459,
+      "sha256": "3f875b5181a76af15e44337a7eb3b4c764a6bb4a22ae36a8b712ea741f597002",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11n__img640__e200__b16__off_n640",
+      "filename": "eval_bbch_bucket__last.csv",
+      "bytes": 558,
+      "sha256": "7ae3694e7455d67de71c135127222a784bca5335c5eaab2d3db71c38de20ec65",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_tertile__last.csv",
+      "bytes": 959,
+      "sha256": "e8b567a8a965a0c6869abdf5f53901cebae724fb281a21c071401f0370cbccbe",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_stage_offset__last.csv",
+      "bytes": 458,
+      "sha256": "ef3d743c54dec6112828ff1a9fc063d11d4933c7c7d204eb47949d165a1a3074",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_bucket__last.csv",
+      "bytes": 1979,
+      "sha256": "64f7f23ec331f366da0b7a543179255673090b8594c94f11af546efa8e864c0c",
+      "included": false
+    },
+    {
+      "run": "stage_holdout__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_tertile__last.csv",
+      "bytes": 152,
+      "sha256": "2dbd04dce1f405a4f7f70c5d42f547768f30eafe6c14d8262ca880776c56aa05",
+      "included": false
+    },
+    {
+      "run": "stage_holdout__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_stage_offset__last.csv",
+      "bytes": 232,
+      "sha256": "207c3cf6cababbe1b5a68f0ef2285ebfa55d3d40a7a4c90aa997191bff994329",
+      "included": false
+    },
+    {
+      "run": "stage_holdout__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_bucket__last.csv",
+      "bytes": 158,
+      "sha256": "086184ced38a715a2745fd972cbf776c3a8b4110cd57bd4843280b9ac59ab929",
+      "included": false
+    },
+    {
+      "run": "stage_holdout_rev__yolo11s__img800__e60__b16__rev",
+      "filename": "eval_bbch_tertile__last.csv",
+      "bytes": 157,
+      "sha256": "715a8b6554a85bed943aa24d4530af7878fe66676d1fde81bb8bc94036d460a5",
+      "included": false
+    },
+    {
+      "run": "stage_holdout_rev__yolo11s__img800__e60__b16__rev",
+      "filename": "eval_stage_offset__last.csv",
+      "bytes": 158,
+      "sha256": "38623dd4ee08cd3445cd852abcacd8ce57d88445d16be4bda4f61b4744a5dac3",
+      "included": false
+    },
+    {
+      "run": "stage_holdout_rev__yolo11s__img800__e60__b16__rev",
+      "filename": "eval_bbch_bucket__last.csv",
+      "bytes": 162,
+      "sha256": "0a49027ff754ca13df66db9a215f8a79d9f694df17da7b681131603250979a1c",
+      "included": false
+    },
+    {
+      "run": "stage_strat__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_tertile__last.csv",
+      "bytes": 300,
+      "sha256": "1f7b2a4273d2f3736142e9637eda26d024beda71a18b606b5073a2af7518297b",
+      "included": false
+    },
+    {
+      "run": "stage_strat__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_stage_offset__last.csv",
+      "bytes": 387,
+      "sha256": "e4fa3e903c7d175b57b0b1d839c70a8423523c0a3e3c68b328d6e0cb00cb9d9d",
+      "included": false
+    },
+    {
+      "run": "stage_strat__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_bucket__last.csv",
+      "bytes": 483,
+      "sha256": "3b22f14ad77f1ce20f66cd09dd2fb204e99e70c5e4d43defb81faaf7ddb46dfc",
+      "included": false
+    },
+    {
+      "run": "temporal_fwd__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_tertile__last.csv",
+      "bytes": 151,
+      "sha256": "151ade83f2a76e36f93d6c1149a5a7d779a4bbe1caf16830c1f7efd1abe3eeed",
+      "included": false
+    },
+    {
+      "run": "temporal_fwd__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_stage_offset__last.csv",
+      "bytes": 232,
+      "sha256": "57b48da66595fac71b8be2a77db6ee1d32d66308c13065c0307a7301550c3ec8",
+      "included": false
+    },
+    {
+      "run": "temporal_fwd__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_bucket__last.csv",
+      "bytes": 241,
+      "sha256": "d43245a9ba4b882cd2a17362de365497d58b43d405109c1ccfd9ab32b9941e47",
+      "included": false
+    },
+    {
+      "run": "temporal_rev__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_tertile__last.csv",
+      "bytes": 227,
+      "sha256": "1df6daf8ffec625f8a97faa59d16df1ec87fdda3056c2460b597b01fd3dfafff",
+      "included": false
+    },
+    {
+      "run": "temporal_rev__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_stage_offset__last.csv",
+      "bytes": 468,
+      "sha256": "965a9519d27ffee1e484579f39f3283c426c27da75b7f24aee14fe57f9086672",
+      "included": false
+    },
+    {
+      "run": "temporal_rev__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_bucket__last.csv",
+      "bytes": 485,
+      "sha256": "47b02de0a7d183a0865d16e00c01f3aaf91876da0af56bac011927d3c1184291",
+      "included": false
+    },
+    {
+      "run": "broken__per_plant__yolo11s__img800__e60__b16__b4",
+      "filename": "eval_camera__last_perclass2.json",
+      "bytes": 3816,
+      "sha256": "ef8d133e1390c4d3dfd448c4eb5707ad573473a2716a9c6a19a964f0f261d421",
+      "included": false
+    },
+    {
+      "run": "broken__per_plant__yolo11s__img800__e60__b16__b4",
+      "filename": "eval_camera__best_perclass2.json",
+      "bytes": 3816,
+      "sha256": "c7975233ffd7a0e32d9b89692298b352479d7514bc330e5ab58aa62e995e20e1",
+      "included": false
+    },
+    {
+      "run": "broken__per_plant__yolo11s__img800__e60__b16__b4",
+      "filename": "eval_bbch_tertile__last_perclass2.json",
+      "bytes": 2884,
+      "sha256": "74ab419c810af70fce8ba53d3b10a980b66c641ff85cfc93fd82da1e39340a40",
+      "included": false
+    },
+    {
+      "run": "broken__per_plant__yolo11s__img800__e60__b16__b4",
+      "filename": "eval_bbch_tertile__last_perclass.json",
+      "bytes": 671,
+      "sha256": "06ffdd32612f11136beefb185968aa3916daa6ea6153b257691c20802cb592e3",
+      "included": false
+    },
+    {
+      "run": "broken__per_plant__yolo11s__img800__e60__b16__b4",
+      "filename": "eval_bbch_bucket__last_perclass2.json",
+      "bytes": 4945,
+      "sha256": "d91836b48a0488232966d02316628ad0227f68d51cec22eacb1201cf3a47d74b",
+      "included": false
+    },
+    {
+      "run": "broken__per_plant__yolo11s__img800__e60__b16__b4",
+      "filename": "eval_bbch_bucket__last_perclass.json",
+      "bytes": 1377,
+      "sha256": "6e8fef7658702ee34f1c6fd42a269b123a219987f6e374a669dfcc3a0f293572",
+      "included": false
+    },
+    {
+      "run": "broken__per_plant__yolo11s__img800__e60__b16__b4",
+      "filename": "eval_stage_offset__last_perclass2.json",
+      "bytes": 4028,
+      "sha256": "1cffc94141954288e2ff98e3f993a967ca2de13d28c31d3063f1d52f9f53ef7b",
+      "included": false
+    },
+    {
+      "run": "broken__per_plant__yolo11s__img800__e60__b16__b4",
+      "filename": "eval_stage_offset__last_perclass.json",
+      "bytes": 1133,
+      "sha256": "3a3c527aaf034b071326bc6f842225e2ac19027ea397872fb8f8d0c5b8f04f9f",
+      "included": false
+    },
+    {
+      "run": "broken__random_img__yolo11s__img800__e60__b16__b4",
+      "filename": "eval_camera__last_perclass2.json",
+      "bytes": 3737,
+      "sha256": "b8451d7ae60b03650d9d6dceee545d4b56c0f3eb582f8d50d1b64c486c86ce46",
+      "included": false
+    },
+    {
+      "run": "broken__random_img__yolo11s__img800__e60__b16__b4",
+      "filename": "eval_camera__last_perclass.json",
+      "bytes": 875,
+      "sha256": "ea95b446cb94679e5a0305c2f72318890e5a1afd8b85334de447c270b9c46438",
+      "included": false
+    },
+    {
+      "run": "broken__random_img__yolo11s__img800__e60__b16__b4",
+      "filename": "eval_camera__best_perclass2.json",
+      "bytes": 3740,
+      "sha256": "264e90ea101ea8934e9a82e0c5ab0c56d35f20a146adb0c37ad2512ad5cc7f5d",
+      "included": false
+    },
+    {
+      "run": "broken__random_img__yolo11s__img800__e60__b16__b4",
+      "filename": "eval_camera__best_perclass.json",
+      "bytes": 876,
+      "sha256": "37b8250d9fd42f1231e63b4b2f881ce1ce5aaee48a15e76c972bfa869086ad29",
+      "included": false
+    },
+    {
+      "run": "broken__random_img__yolo11s__img800__e60__b16__b4",
+      "filename": "eval_bbch_tertile__last_perclass2.json",
+      "bytes": 2776,
+      "sha256": "4e2efed4862a360a0dcbb1247d2c7b84d131fc523792c3d9b3517dc7cb9f0cdc",
+      "included": false
+    },
+    {
+      "run": "broken__random_img__yolo11s__img800__e60__b16__b4",
+      "filename": "eval_bbch_tertile__last_perclass.json",
+      "bytes": 674,
+      "sha256": "5a3c0395c9202dd3fbcf05b14a32c0dfa7eeb1978c376e3e822d4704dea6d971",
+      "included": false
+    },
+    {
+      "run": "broken__random_img__yolo11s__img800__e60__b16__b4",
+      "filename": "eval_bbch_bucket__last_perclass2.json",
+      "bytes": 4458,
+      "sha256": "d80530ec2c56cd9ed404210bd30a6d6daa253f351bd33623716c2fb2a5cecacc",
+      "included": false
+    },
+    {
+      "run": "broken__random_img__yolo11s__img800__e60__b16__b4",
+      "filename": "eval_bbch_bucket__last_perclass.json",
+      "bytes": 1385,
+      "sha256": "0923b468052124967d2cdce862c7bd75c8f4f52d9817bbc144fdb99ab9817436",
+      "included": false
+    },
+    {
+      "run": "broken__random_img__yolo11s__img800__e60__b16__b4",
+      "filename": "eval_stage_offset__last_perclass2.json",
+      "bytes": 3982,
+      "sha256": "c0ba5e98b84eba6258c4e3d40b8bd27ce770312e6e7941a2d66be8f935280997",
+      "included": false
+    },
+    {
+      "run": "broken__random_img__yolo11s__img800__e60__b16__b4",
+      "filename": "eval_stage_offset__last_perclass.json",
+      "bytes": 1136,
+      "sha256": "933e137cfbba8e52dfe98f9516300632e4798c4579aa9b966f5ce51da0416062",
+      "included": false
+    },
+    {
+      "run": "per_plant__yolo11n__img640__e200__b16__off_n640",
+      "filename": "eval_camera__last_perclass2.json",
+      "bytes": 3821,
+      "sha256": "1eb495fdcefeb5f4334b46cb52153939d15f9669476937a51b8087390accdba3",
+      "included": false
+    },
+    {
+      "run": "per_plant__yolo11n__img640__e200__b16__off_n640",
+      "filename": "eval_camera__best_perclass2.json",
+      "bytes": 3821,
+      "sha256": "4583378448d442ffaeeecfdaf8ef75a33bb3ff232b084e8bb0f14d884448d0c7",
+      "included": false
+    },
+    {
+      "run": "per_plant__yolo11n__img640__e200__b16__off_n640",
+      "filename": "eval_bbch_tertile__last_perclass2.json",
+      "bytes": 2883,
+      "sha256": "73502e27af488d6bd1ccf8f5bc1744f5ebeebe01763b0b15c5a9cf55ecebb0a8",
+      "included": false
+    },
+    {
+      "run": "per_plant__yolo11n__img640__e200__b16__off_n640",
+      "filename": "eval_bbch_tertile__last_perclass.json",
+      "bytes": 669,
+      "sha256": "06ddaff369756af18ae00d0a7890971daf43e797b1b62396b16b29e139a64b23",
+      "included": false
+    },
+    {
+      "run": "per_plant__yolo11n__img640__e200__b16__off_n640",
+      "filename": "eval_bbch_bucket__last_perclass2.json",
+      "bytes": 4938,
+      "sha256": "9c4173490c708ee0eb97cf41823fc3ae78ff0d029b1a82976e1f85ca4dc9af6d",
+      "included": false
+    },
+    {
+      "run": "per_plant__yolo11n__img640__e200__b16__off_n640",
+      "filename": "eval_bbch_bucket__last_perclass.json",
+      "bytes": 1375,
+      "sha256": "b57408cb88354fb4d7bd1d9e1655e87e6e903bd4df88b2f412a4c719ac4f36e5",
+      "included": false
+    },
+    {
+      "run": "per_plant__yolo11n__img640__e200__b16__off_n640",
+      "filename": "eval_stage_offset__last_perclass2.json",
+      "bytes": 4018,
+      "sha256": "f91d7b259a0c10d75017800c7048e7343232ac69e63303227d6b80d598c763a6",
+      "included": false
+    },
+    {
+      "run": "per_plant__yolo11n__img640__e200__b16__off_n640",
+      "filename": "eval_stage_offset__last_perclass.json",
+      "bytes": 1127,
+      "sha256": "6d7266cc6c9a0b50f1dce4b4233891f9ce93bf2f19c0c7bc87e37d5d7deefc23",
+      "included": false
+    },
+    {
+      "run": "per_plant__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_camera__last_perclass2.json",
+      "bytes": 3826,
+      "sha256": "d6b185dc7b9d48c63ec0378cc6e5e8bc909db8eb508854a06a3102822e89046e",
+      "included": false
+    },
+    {
+      "run": "per_plant__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_camera__best_perclass2.json",
+      "bytes": 3824,
+      "sha256": "5f3d5696f7371267cb2449ad7eda86631148da47aa255ea66cec820d247ad41a",
+      "included": false
+    },
+    {
+      "run": "per_plant__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_tertile__last_perclass2.json",
+      "bytes": 2883,
+      "sha256": "ac88b7f3f9d56876fc56e2e9f751ff8a4f582e2968cc09a78e43b62b9af3c45d",
+      "included": false
+    },
+    {
+      "run": "per_plant__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_tertile__last_perclass.json",
+      "bytes": 668,
+      "sha256": "291345dca6e78050ec5f67e0de4e73a1f90093ad951888f963b473cfeb2bb37b",
+      "included": false
+    },
+    {
+      "run": "per_plant__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_bucket__last_perclass2.json",
+      "bytes": 17537,
+      "sha256": "c7c9db334bd59de4cd66b099d29b8c4640c34c17ae17575c6c290eddaadec460",
+      "included": false
+    },
+    {
+      "run": "per_plant__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_bucket__last_perclass.json",
+      "bytes": 5443,
+      "sha256": "93c60d678914fd66859e5b66bbea72ad2ade191d50e1fde0c04070e24f934288",
+      "included": false
+    },
+    {
+      "run": "per_plant__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_stage_offset__last_perclass2.json",
+      "bytes": 4026,
+      "sha256": "a6f18adef6401f19c71e936cc829b6c6440bed93e4a50ff4049c5d8ffa7d20c1",
+      "included": false
+    },
+    {
+      "run": "per_plant__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_stage_offset__last_perclass.json",
+      "bytes": 1133,
+      "sha256": "a830c673dc6fb4aabe3a3d9d0b8e2a5f6aa71b7cb0fca8dd9160b45e83f84c52",
+      "included": false
+    },
+    {
+      "run": "per_set__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_camera__last_perclass2.json",
+      "bytes": 3755,
+      "sha256": "bd846430c3c641a33ed3444a5cbb40cd348841a20a0840d64f8d4d3bf30b8097",
+      "included": false
+    },
+    {
+      "run": "per_set__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_camera__last_perclass.json",
+      "bytes": 885,
+      "sha256": "9c2f8ccec3708ac3de53e720ac0be67acfe37cf29d79933079cf7f50b7b0c5f9",
+      "included": false
+    },
+    {
+      "run": "per_set__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_camera__best_perclass2.json",
+      "bytes": 3751,
+      "sha256": "5dd527f221a161df3d8b1760b1752973fbe08e5df397ee82f1e89021fe55f9b5",
+      "included": false
+    },
+    {
+      "run": "per_set__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_camera__best_perclass.json",
+      "bytes": 881,
+      "sha256": "09362bbe5b522937102ccbf7a25145b3407ec794145b20df2dc7e97107e1b408",
+      "included": false
+    },
+    {
+      "run": "per_set__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_tertile__last_perclass2.json",
+      "bytes": 9851,
+      "sha256": "cf9e947ac037d0f32130c9f39de75b12d17f6a156ebabc43cdfb4fe59509f373",
+      "included": false
+    },
+    {
+      "run": "per_set__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_tertile__last_perclass.json",
+      "bytes": 2655,
+      "sha256": "88d94ae38b0d333482a3e48759f7f4c8e625b7dd2c764ab5d2ed7b75b55e63a8",
+      "included": false
+    },
+    {
+      "run": "per_set__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_bucket__last_perclass2.json",
+      "bytes": 17426,
+      "sha256": "9eadce19fbad7f1b9221e73d9e0471dd2437d2a618aef5d1428cd5242e905652",
+      "included": false
+    },
+    {
+      "run": "per_set__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_bucket__last_perclass.json",
+      "bytes": 5451,
+      "sha256": "69a099522dcbf986b5bd81f9d53e4f6698ac7643eb1ab8b0c81d1c3d891c4613",
+      "included": false
+    },
+    {
+      "run": "per_set__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_stage_offset__last_perclass2.json",
+      "bytes": 14843,
+      "sha256": "9a9db2ee0d2400adf9f4d3ff2d23fe01f609dee4cf819f68bb7fcd9d1a3b523a",
+      "included": false
+    },
+    {
+      "run": "per_set__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_stage_offset__last_perclass.json",
+      "bytes": 4456,
+      "sha256": "8a12e071bcdcbcb8574f67b75b55709fb384f17bf4f5374a8d6a5e56266ac540",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11n__img640__e200__b16__off_n640",
+      "filename": "eval_camera__last_perclass2.json",
+      "bytes": 3743,
+      "sha256": "30beaa7850ee791ec4a99411b10fa427f1cb747f2cf43ad4f89e67afcbbdfc13",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11n__img640__e200__b16__off_n640",
+      "filename": "eval_camera__last_perclass.json",
+      "bytes": 877,
+      "sha256": "1631e20c435c7d99d05aa36d484fe322415f849356264416bcf04799da9767e4",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11n__img640__e200__b16__off_n640",
+      "filename": "eval_camera__best_perclass2.json",
+      "bytes": 3743,
+      "sha256": "0526c10c7b9c182d148111f33a2adcfb5d52e1a505bec47bc18ee0c26347098a",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11n__img640__e200__b16__off_n640",
+      "filename": "eval_camera__best_perclass.json",
+      "bytes": 877,
+      "sha256": "1631e20c435c7d99d05aa36d484fe322415f849356264416bcf04799da9767e4",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11n__img640__e200__b16__off_n640",
+      "filename": "eval_bbch_tertile__last_perclass2.json",
+      "bytes": 2777,
+      "sha256": "0b21ee1864578db8e3c2c7aaca5861dabd69a6dec92e1540b8df9823336b54f4",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11n__img640__e200__b16__off_n640",
+      "filename": "eval_bbch_tertile__last_perclass.json",
+      "bytes": 675,
+      "sha256": "b2fc8a35df1e0a1fc69b8b8d1695a2e4bb5cf26319e16813af5cd077de0ce4bb",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11n__img640__e200__b16__off_n640",
+      "filename": "eval_bbch_bucket__last_perclass2.json",
+      "bytes": 4454,
+      "sha256": "deed1b01432424718b056c1dbe6a3c888a2e65a94d75c6c41dd83c21393a8179",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11n__img640__e200__b16__off_n640",
+      "filename": "eval_bbch_bucket__last_perclass.json",
+      "bytes": 1376,
+      "sha256": "bb2f6c7b989b085143d3c39a3c929aec31b2e67a6ebd5dc825709228e30b822f",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11n__img640__e200__b16__off_n640",
+      "filename": "eval_stage_offset__last_perclass2.json",
+      "bytes": 3978,
+      "sha256": "e770e363a285200f0b4ebaa625f2d3399de8da8f951cf34cbc7c5cbffa5f7d0c",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11n__img640__e200__b16__off_n640",
+      "filename": "eval_stage_offset__last_perclass.json",
+      "bytes": 1133,
+      "sha256": "77b94e7f7b674bfeb3af46f23cb06f87239d4c79488a450c1514c941f55dc1c4",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_camera__last_perclass2.json",
+      "bytes": 3744,
+      "sha256": "bb05caa84d0a770dfa4e1c44e2d16b0664e5582a09a83fd2fadfd7581a7d5b69",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_camera__last_perclass.json",
+      "bytes": 878,
+      "sha256": "618d0051b859601981625331575cabdcdc8dbaf73bf20158ab7e1a9cf7b100a2",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_camera__best_perclass2.json",
+      "bytes": 3748,
+      "sha256": "185167861fbb21c3db5c5d093def2150cf86c9448f1ed5523a0f4c1a15729035",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_camera__best_perclass.json",
+      "bytes": 880,
+      "sha256": "32d68729ee61062d575ee5391902fcc38306fac0911af495e2ba49896d7a39f0",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_tertile__last_perclass2.json",
+      "bytes": 9698,
+      "sha256": "2b3cd3d82f673046eebc63c86aaf758d44b9c817b7d0707b50367c4955169e1b",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_tertile__last_perclass.json",
+      "bytes": 2656,
+      "sha256": "7605645f1cd5ff3e5339d0388c888b415f7afd02e242883d76bdc685bcdee36d",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_bucket__last_perclass2.json",
+      "bytes": 16983,
+      "sha256": "c412532b6a667f5c35e77baa0e9fce1c3de82d337aa3dc25a7df6ae51b8034db",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_bucket__last_perclass.json",
+      "bytes": 5460,
+      "sha256": "2036178c086cb87d45c8c0d15e05019c5da384497a835ff2db06b21487b073b2",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_stage_offset__last_perclass2.json",
+      "bytes": 3982,
+      "sha256": "a80d2d2770e1b8205ba3a7a3905e5e7a00d5d6cf1d5996116d3c3b89aa9a92d1",
+      "included": false
+    },
+    {
+      "run": "random_img__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_stage_offset__last_perclass.json",
+      "bytes": 1136,
+      "sha256": "afa0a213d33599f4d21becd01e9f1c8b9afe4fe35e3be57f5ec6e87129a84daa",
+      "included": false
+    },
+    {
+      "run": "stage_holdout__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_camera__last_perclass2.json",
+      "bytes": 3525,
+      "sha256": "4538e08a885e34e67d3f0c9a4383a844e71a077a41a18e09a6fec822c9295cb2",
+      "included": false
+    },
+    {
+      "run": "stage_holdout__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_camera__last_perclass.json",
+      "bytes": 882,
+      "sha256": "b601deed1facc190c2cac51e134beb77dd48ae245aeb835b7ad468bd4aecbda7",
+      "included": false
+    },
+    {
+      "run": "stage_holdout__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_camera__best_perclass2.json",
+      "bytes": 3527,
+      "sha256": "8ceb3e21ee506bde50d3e2e27c1bea099577f617d1babad361f817e9521d642b",
+      "included": false
+    },
+    {
+      "run": "stage_holdout__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_camera__best_perclass.json",
+      "bytes": 884,
+      "sha256": "a196a5fa2b4473234d6023a5f83719289034db597012dfb6262397d87172654c",
+      "included": false
+    },
+    {
+      "run": "stage_holdout__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_tertile__last_perclass2.json",
+      "bytes": 1151,
+      "sha256": "b5f0974495c77044e7d93e60e030578bc1c75e5b3b221fee7743f587bc1459e6",
+      "included": false
+    },
+    {
+      "run": "stage_holdout__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_tertile__last_perclass.json",
+      "bytes": 227,
+      "sha256": "436a6063a167fbaa3a575385ee1bc26622ceddee10747c82d4345035b9b8de66",
+      "included": false
+    },
+    {
+      "run": "stage_holdout__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_bucket__last_perclass2.json",
+      "bytes": 1156,
+      "sha256": "db814697cfc4d09afac95fbdb06a4dc8351d8b9e03abfe26779550db5abfbe1a",
+      "included": false
+    },
+    {
+      "run": "stage_holdout__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_bucket__last_perclass.json",
+      "bytes": 233,
+      "sha256": "4f8c925eb1517752779069f7f33b07eb8a62daa8185fe1f715031b68af258860",
+      "included": false
+    },
+    {
+      "run": "stage_holdout__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_stage_offset__last_perclass2.json",
+      "bytes": 1837,
+      "sha256": "d43fc20341e64ee2cf3241d62001bdb8d237245f8888377419cd5a0a1ba8d589",
+      "included": false
+    },
+    {
+      "run": "stage_holdout__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_stage_offset__last_perclass.json",
+      "bytes": 453,
+      "sha256": "4b28562d664147cbf94b89ebe2a39ce653ae22923488ff3e9aa80e59146b6098",
+      "included": false
+    },
+    {
+      "run": "stage_holdout_rev__yolo11s__img800__e60__b16__rev",
+      "filename": "eval_camera__last_perclass2.json",
+      "bytes": 2251,
+      "sha256": "a2f9505f38f39bc9230c3477da63fb31a52f25f58a51d61bfbde50547c7756bc",
+      "included": false
+    },
+    {
+      "run": "stage_holdout_rev__yolo11s__img800__e60__b16__rev",
+      "filename": "eval_camera__last_perclass.json",
+      "bytes": 891,
+      "sha256": "b0350d2e27163c23ecbf3ccd6cf9ed0fadfef5bcd2ebf73d635d0385b5b09e45",
+      "included": false
+    },
+    {
+      "run": "stage_holdout_rev__yolo11s__img800__e60__b16__rev",
+      "filename": "eval_camera__best_perclass2.json",
+      "bytes": 2249,
+      "sha256": "e2dc0ddebef531a073dfd2b26b7728bcf07912aa5bbb2b14c0f7d555330673eb",
+      "included": false
+    },
+    {
+      "run": "stage_holdout_rev__yolo11s__img800__e60__b16__rev",
+      "filename": "eval_camera__best_perclass.json",
+      "bytes": 887,
+      "sha256": "893732e441dfe3fd43087ecc6ec44a6316201ab390e70ff4e175bf9fd3a9a805",
+      "included": false
+    },
+    {
+      "run": "stage_holdout_rev__yolo11s__img800__e60__b16__rev",
+      "filename": "eval_bbch_tertile__last_perclass2.json",
+      "bytes": 836,
+      "sha256": "ab80b2b8c4d0eb80507989b8cc3eacd8da09a69518a1dd453d49c043c8968517",
+      "included": false
+    },
+    {
+      "run": "stage_holdout_rev__yolo11s__img800__e60__b16__rev",
+      "filename": "eval_bbch_tertile__last_perclass.json",
+      "bytes": 228,
+      "sha256": "e9f00cfc145ad9a2ab2afb08e3adbd2d886d92978da674755627e8c44eca8ca7",
+      "included": false
+    },
+    {
+      "run": "stage_holdout_rev__yolo11s__img800__e60__b16__rev",
+      "filename": "eval_bbch_bucket__last_perclass2.json",
+      "bytes": 840,
+      "sha256": "31c6dccfed920ecb60417dd00f341180eb023d36ddd757f7465459b26446c82d",
+      "included": false
+    },
+    {
+      "run": "stage_holdout_rev__yolo11s__img800__e60__b16__rev",
+      "filename": "eval_bbch_bucket__last_perclass.json",
+      "bytes": 233,
+      "sha256": "658deaeccd42d8b9018c235d2d408e5739b08512b49967c6725e10d4bbc8d495",
+      "included": false
+    },
+    {
+      "run": "stage_holdout_rev__yolo11s__img800__e60__b16__rev",
+      "filename": "eval_stage_offset__last_perclass2.json",
+      "bytes": 837,
+      "sha256": "7697468312d9dac1116e660d9b7fea8c9653c4d52c950652249150963fd0464a",
+      "included": false
+    },
+    {
+      "run": "stage_holdout_rev__yolo11s__img800__e60__b16__rev",
+      "filename": "eval_stage_offset__last_perclass.json",
+      "bytes": 229,
+      "sha256": "617ec006f722f4b29455980c466c57eb0edcc6b8307da2f710d341da6949a9ce",
+      "included": false
+    },
+    {
+      "run": "stage_strat__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_camera__last_perclass2.json",
+      "bytes": 3620,
+      "sha256": "43fa9a9b01140eb39449e383b0ae004cd808cab244aac59b7b8ce39c6c6fb2ff",
+      "included": false
+    },
+    {
+      "run": "stage_strat__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_camera__last_perclass.json",
+      "bytes": 888,
+      "sha256": "9ed99b53672b8ff55632fead3eb5170bb008759f71117adcc0730992aa6b3863",
+      "included": false
+    },
+    {
+      "run": "stage_strat__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_camera__best_perclass2.json",
+      "bytes": 3620,
+      "sha256": "886953ff9e4e76c2abaaca4b5b9e24ccc554065e55d543547c27c054c1f3995c",
+      "included": false
+    },
+    {
+      "run": "stage_strat__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_camera__best_perclass.json",
+      "bytes": 888,
+      "sha256": "9ed99b53672b8ff55632fead3eb5170bb008759f71117adcc0730992aa6b3863",
+      "included": false
+    },
+    {
+      "run": "stage_strat__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_tertile__last_perclass2.json",
+      "bytes": 2710,
+      "sha256": "d9019030c89d34f028012b22a4be695c97c2a2ba749fd3ca6012434ce3325d59",
+      "included": false
+    },
+    {
+      "run": "stage_strat__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_tertile__last_perclass.json",
+      "bytes": 678,
+      "sha256": "b179e889dd0397569b6c5964466a0f9d65cbef99cb892af6e3a41b872a8f1e00",
+      "included": false
+    },
+    {
+      "run": "stage_strat__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_bucket__last_perclass2.json",
+      "bytes": 4086,
+      "sha256": "084d550bcb50a515586d83b3484028eab1ffe9d045c3b9b72b078206555b6048",
+      "included": false
+    },
+    {
+      "run": "stage_strat__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_bucket__last_perclass.json",
+      "bytes": 1157,
+      "sha256": "f6391ef3458fea7045a624cb3d5aad1a594d712cfac4ef9958d1deed78250a37",
+      "included": false
+    },
+    {
+      "run": "stage_strat__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_stage_offset__last_perclass2.json",
+      "bytes": 3393,
+      "sha256": "ae0cc626dfa2832a6f50a305212491815d07e7da367336fb6f8502c4c7cc38ff",
+      "included": false
+    },
+    {
+      "run": "stage_strat__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_stage_offset__last_perclass.json",
+      "bytes": 911,
+      "sha256": "cb8ef6cb532708e350ec5d2889f4341f65e041a55f7f4f1b673ba9821a23e674",
+      "included": false
+    },
+    {
+      "run": "temporal_fwd__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_camera__last_perclass2.json",
+      "bytes": 3424,
+      "sha256": "6931baf7d2e01252acfed45941a01aa43db51b0079706f6bd2f8d2af505c3d21",
+      "included": false
+    },
+    {
+      "run": "temporal_fwd__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_camera__last_perclass.json",
+      "bytes": 889,
+      "sha256": "d2e9aca5553499967b8da6047b7e54939ef7ee2395aae114ba43cf95acf6aa2f",
+      "included": false
+    },
+    {
+      "run": "temporal_fwd__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_camera__best_perclass2.json",
+      "bytes": 3420,
+      "sha256": "a9f700727547ac831d79896784a1313b75ee21a31b7da5b1f2763b57c9859ea5",
+      "included": false
+    },
+    {
+      "run": "temporal_fwd__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_camera__best_perclass.json",
+      "bytes": 884,
+      "sha256": "9f219c6b48576cd52fcfd6c1347f983a7419736f5148216f8303bdc455667edc",
+      "included": false
+    },
+    {
+      "run": "temporal_fwd__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_tertile__last_perclass2.json",
+      "bytes": 1152,
+      "sha256": "abc6fd4895c6dfbb685ae8fe7d88ef5c1bba3d1e580ebb7d65884617d0d48b33",
+      "included": false
+    },
+    {
+      "run": "temporal_fwd__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_tertile__last_perclass.json",
+      "bytes": 228,
+      "sha256": "49d93a3ce31408c93fac0687ae14bf257abd233c0c00274d6c7d6786094e6988",
+      "included": false
+    },
+    {
+      "run": "temporal_fwd__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_bucket__last_perclass2.json",
+      "bytes": 1957,
+      "sha256": "33e5195f209271c69e9a4a8508aec98702fd169367f6d7fae8dd97ffd1dbe5ad",
+      "included": false
+    },
+    {
+      "run": "temporal_fwd__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_bucket__last_perclass.json",
+      "bytes": 462,
+      "sha256": "574dd2802ccf80c510f801414b62bed6e06dcddcd15db2eb306078a35ae95a79",
+      "included": false
+    },
+    {
+      "run": "temporal_fwd__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_stage_offset__last_perclass2.json",
+      "bytes": 1948,
+      "sha256": "0cf36c3ae3c6157d483b088fb63bbd77e3ebdb6be256d5b94962e58851c3d295",
+      "included": false
+    },
+    {
+      "run": "temporal_fwd__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_stage_offset__last_perclass.json",
+      "bytes": 453,
+      "sha256": "c505224861fce12f5b05bcb70e9627d551d86a2bf81863cf58b3a91a85d9b2be",
+      "included": false
+    },
+    {
+      "run": "temporal_rev__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_camera__last_perclass2.json",
+      "bytes": 3793,
+      "sha256": "9a5328ac3e9bb9791ccdd3a73275baa10abd9b3ac7ad1cfa1c94f3908fb68e72",
+      "included": false
+    },
+    {
+      "run": "temporal_rev__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_camera__best_perclass2.json",
+      "bytes": 3790,
+      "sha256": "757c13b8b2b964b94a43f89cad7a9bb94016a799575a7d44e8967ce650189d87",
+      "included": false
+    },
+    {
+      "run": "temporal_rev__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_tertile__last_perclass2.json",
+      "bytes": 1973,
+      "sha256": "fb732f5b920a9ce0f2e320f95bea741b6ca3e9b48b4dec4e5a859c72ff75a6fa",
+      "included": false
+    },
+    {
+      "run": "temporal_rev__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_tertile__last_perclass.json",
+      "bytes": 447,
+      "sha256": "ca2b142a98fc9147654b3e26906329e824f9965670da37755b9eb2f9a56f7923",
+      "included": false
+    },
+    {
+      "run": "temporal_rev__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_bucket__last_perclass2.json",
+      "bytes": 4344,
+      "sha256": "85949d38776c46b5d937a93b504cdb9f532d33ba8d3adb53e2d5212b4ecc5c20",
+      "included": false
+    },
+    {
+      "run": "temporal_rev__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_bbch_bucket__last_perclass.json",
+      "bytes": 1132,
+      "sha256": "cc74ceb929d9328a9f2920fc4c3bc6850bdc3e40fd1510cc208574c97e36a4fd",
+      "included": false
+    },
+    {
+      "run": "temporal_rev__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_stage_offset__last_perclass2.json",
+      "bytes": 4326,
+      "sha256": "02982fe10f0081800427825894ad8e0bb20550fbb3e0b0b6e722e35eeeff9feb",
+      "included": false
+    },
+    {
+      "run": "temporal_rev__yolo11s__img800__e60__b16__b1",
+      "filename": "eval_stage_offset__last_perclass.json",
+      "bytes": 1113,
+      "sha256": "96581e5609670ff41000bee3f9b1f9f9a27dc226f4c68f1972f73e9f52a9492f",
+      "included": false
+    }
+  ],
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "bytes": 637,
+      "sha256": "fe87df5ad365eae6637720859ef45cd7ed8d77e4ff0ae43aefdfd7d44db68806"
+    },
+    {
+      "path": "config.json",
+      "bytes": 180,
+      "sha256": "77c6f56cbdbe7aa6e6e13feb1326aa31aa9d8a12e15d02dd427ea5f09ce25e8f"
+    },
+    {
+      "path": "constraints.txt",
+      "bytes": 60,
+      "sha256": "eca058c9dfe1d508ca9fd224cd36a0d059144d10a02ff0d0381f949b59f8ff36"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 238,
+      "sha256": "93e9ef93c61c345c05825297938f957f83d23f634137b53000d4b13bc1b884d6"
+    },
+    {
+      "path": "scripts/stage_view_analysis.py",
+      "bytes": 9817,
+      "sha256": "bb176231256c5120434cc39dfec8192c5a44a53bcfc4d4cfee14ce4f79ac89a7"
+    },
+    {
+      "path": "scripts/tm_band_naming.py",
+      "bytes": 4616,
+      "sha256": "9b66046907a060cccc6d5802e6e87e0e14477c5076ae8a098b048cbad0ef815d"
+    },
+    {
+      "path": "scripts/tm_bbch_gap.py",
+      "bytes": 7100,
+      "sha256": "6d84581971e7975de6ba3af6e8d1cc73b749cefc5d30c9c22e27fc1427d83c81"
+    },
+    {
+      "path": "scripts/tm_class_stage.py",
+      "bytes": 6353,
+      "sha256": "c29859c0703adb36d0dea962be779c281f54fa017f9b4623772b5695017e92c4"
+    },
+    {
+      "path": "scripts/tm_config.py",
+      "bytes": 1688,
+      "sha256": "25a10ded1d29c54f3290d274c19edb0ec076f603017158a984caf9191e7e8409"
+    },
+    {
+      "path": "scripts/tm_drift.py",
+      "bytes": 3773,
+      "sha256": "61647f7d14e86042d53912a8bcb7928fb5d0a991c836c0bf41f72e020bf296d6"
+    },
+    {
+      "path": "scripts/tm_dump_pred.py",
+      "bytes": 10077,
+      "sha256": "399da08a7ec49a9ccf9c8f220296b5e91793c969e501824265cf7cb1dc768276"
+    },
+    {
+      "path": "scripts/tm_eval.py",
+      "bytes": 8338,
+      "sha256": "656ed77abab7946358bfa402a71ab66f64719fb77b91495a12981e8b6d453a98"
+    },
+    {
+      "path": "scripts/tm_export.py",
+      "bytes": 15207,
+      "sha256": "155e7826e8e87fd8108864327594d7ab1ce45412a8576bafb5ae0b4d66d667c3"
+    },
+    {
+      "path": "scripts/tm_paired.py",
+      "bytes": 9882,
+      "sha256": "8915b0b1c1a5b4d506cbf4980f1527e33813d60cfe20e890c8e3d8584cd4b129"
+    },
+    {
+      "path": "scripts/tm_prepare.py",
+      "bytes": 2137,
+      "sha256": "bed42476a9c66f245a71ae4d88a665deca02434c99f54a40f50edda954dd9e19"
+    },
+    {
+      "path": "scripts/tm_train.py",
+      "bytes": 4615,
+      "sha256": "fcdd6761493feef9860bd0c3554006959208cc5bd3ddb8097a11553569c0b068"
+    },
+    {
+      "path": "tables/T10_class_stage_matrix.csv",
+      "bytes": 139835,
+      "sha256": "de6f4116205270b86c08dfcc9479a2a4b9e2ee7c2317e7151b47ec4361d3738b"
+    },
+    {
+      "path": "tables/T10_class_stage_matrix_domains.csv",
+      "bytes": 18702,
+      "sha256": "5d5c4b844788b9a1db82f109228ca5c1e251040d35d1f3cd5e40df12a6ddcb83"
+    },
+    {
+      "path": "tables/T11_bbch_stage_coverage.csv",
+      "bytes": 3773,
+      "sha256": "2a05b6853cd33f80f7a7d99ef9f010793124fecf3c24ddd60d7b7dc0611c2725"
+    },
+    {
+      "path": "tables/T11_plant_seam_crossings.csv",
+      "bytes": 4920,
+      "sha256": "c9a27155bda787f0be67ee99b11b2d1bb44c9f81bd00754827d9729658d771b0"
+    },
+    {
+      "path": "tables/T12_band_naming.csv",
+      "bytes": 1524,
+      "sha256": "f4a9fed0d0ae8c9cf98c333f0be08524d8d55806cdde1d8dfbd235a13955bd79"
+    },
+    {
+      "path": "tables/T16_support_sensitivity.csv",
+      "bytes": 6438,
+      "sha256": "10ca18f9563a2f023316c915fe780094127c61b7dce88151d0c3e313f516318f"
+    },
+    {
+      "path": "tables/T17_stage_view.csv",
+      "bytes": 8357,
+      "sha256": "869618f862b92577b661d93ffa3f273ac6f80d7fdda2c8819ecd2b5ebf557967"
+    },
+    {
+      "path": "tables/T18_matched_view_intervals.csv",
+      "bytes": 3010,
+      "sha256": "8d072d19c6556bdff39a6d645b66b10865fdce5a455c1aff069ab40633ab61d6"
+    },
+    {
+      "path": "tables/T18_matched_view_meta.json",
+      "bytes": 1123,
+      "sha256": "0dc7363d661dcbf2c266b7967791bbb14d0d595e6ef81eec9396bc3f94682043"
+    },
+    {
+      "path": "tables/T3_camera_matrix.csv",
+      "bytes": 1554,
+      "sha256": "9c1579361f8e85ac301ee04a81db8361f422f53ce8982813f838647c20b5f3d8"
+    },
+    {
+      "path": "tables/T4_drift.csv",
+      "bytes": 48323,
+      "sha256": "5b8bf0f2d0cfe95cd7b9252e924145457e4c66c68f61adc98329f672d78d31e1"
+    },
+    {
+      "path": "tables/T5_perclass.csv",
+      "bytes": 310796,
+      "sha256": "f8e5fb4cdafe0bc3103bc312024f8947b77787884180789a796adbb11714110e"
+    },
+    {
+      "path": "tables/T6_stage_curve.csv",
+      "bytes": 19625,
+      "sha256": "45ac7d76398e5303cae1ac2c84545233492f4f3cd782c346afe7af7140e027ef"
+    },
+    {
+      "path": "USAGE.txt",
+      "bytes": 5567,
+      "sha256": "633556a476c2210d82962f996e0337c54568499018fd6b72afa730702dd2ed1a"
+    },
+    {
+      "path": "work/tm_yolo/boot/per_set__e60__last__per_set__cam1_bottom45__test.json",
+      "bytes": 686,
+      "sha256": "84a1f3749c6cb8b494f957343f989467ac2cd50bd457d9022d95ae00a5f589f7"
+    },
+    {
+      "path": "work/tm_yolo/boot/per_set__e60__last__per_set__cam1_bottom45__test.npz",
+      "bytes": 991998,
+      "sha256": "336f187541630d555240c0672e28e476fd42aee52685fd8ae064670cde1e8ca9"
+    },
+    {
+      "path": "work/tm_yolo/boot/per_set__e60__last__per_set__cam2_horizontal90__test.json",
+      "bytes": 695,
+      "sha256": "d2791225f3cb11a963cb23b7e5306b547ec07346f8c4f1618a6b61ecb0aa0825"
+    },
+    {
+      "path": "work/tm_yolo/boot/per_set__e60__last__per_set__cam2_horizontal90__test.npz",
+      "bytes": 791230,
+      "sha256": "bbddf441c29a78f6d1835b7639ace34f97683d57c27ab49ec106fdc545d25141"
+    },
+    {
+      "path": "work/tm_yolo/boot/per_set__e60__last__per_set__cam3_tilttop135__test.json",
+      "bytes": 688,
+      "sha256": "6adea23babd0a7ab0c9f0bc6f50aa17ab01c75a5e504f15c486f8a12ef2d2a1f"
+    },
+    {
+      "path": "work/tm_yolo/boot/per_set__e60__last__per_set__cam3_tilttop135__test.npz",
+      "bytes": 1115383,
+      "sha256": "891555c92faf4ce0cf2e9773181d07673e2a69e9ecfd6653f2dd675b5df02ddf"
+    },
+    {
+      "path": "work/tm_yolo/boot/per_set__e60__last__per_set__cam4_vertical180__test.json",
+      "bytes": 692,
+      "sha256": "36364fea81050c3fed7c037f5e0311041194a7b68fac0df8a9bc3832baa520b3"
+    },
+    {
+      "path": "work/tm_yolo/boot/per_set__e60__last__per_set__cam4_vertical180__test.npz",
+      "bytes": 1336736,
+      "sha256": "47deff004f11817c0bca21bc0a625b5c49d5e87cd3196a9a4d17b0a8ac8f4986"
+    },
+    {
+      "path": "work/tm_yolo/classes.txt",
+      "bytes": 84,
+      "sha256": "80bb4b829dfaa0e29a9dcfd19ec51b1200b96f357502c6fc352447b704acd17b"
+    },
+    {
+      "path": "work/tm_yolo/index.csv",
+      "bytes": 5184372,
+      "sha256": "de1c9527c025b993da31d79039df1cd4c6d466b039889dfd00515ae4d83f4ad6"
+    },
+    {
+      "path": "work/tm_yolo/paired/paired_subset__cam2__1014.txt",
+      "bytes": 74283,
+      "sha256": "5cf46adc1706953b07485a3eaf6a3d4ef1f7b98f18dcf5fb71ce8198409046ca"
+    },
+    {
+      "path": "work/tm_yolo/paired/paired_subset__cam2__592.txt",
+      "bytes": 43366,
+      "sha256": "cea1bb256857e0a98c747683d19384a36d9a47b802b4c573792e29e8b2ce99f6"
+    },
+    {
+      "path": "work/tm_yolo/splits/per_plant.csv",
+      "bytes": 5110662,
+      "sha256": "251379f785fafd9d850d8dfd9aaa02d639ec62dacb8b295043c15d31144b7089"
+    },
+    {
+      "path": "work/tm_yolo/splits/per_set.csv",
+      "bytes": 5112078,
+      "sha256": "d8d23dad86393f06d193c8a9e2b93ebb163a4b8ec787a40bc1aaed0f71729022"
+    },
+    {
+      "path": "work/tm_yolo/splits/random_img.csv",
+      "bytes": 5112077,
+      "sha256": "cc5c973e17ed56e534c12da8bc1d71b78f469728ad005a9b55ffa85f6adc6a82"
+    },
+    {
+      "path": "work/tm_yolo/splits/stage_holdout.csv",
+      "bytes": 5112102,
+      "sha256": "f331881d1ee000b1c0e11d6a18f1ac46ef86386e2f0601075723ba06062f59ab"
+    },
+    {
+      "path": "work/tm_yolo/splits/stage_holdout_rev.csv",
+      "bytes": 5112102,
+      "sha256": "0810c6dd1e465920ec54c49256f39425d3a3da491d44a65bd18b6453c440238e"
+    },
+    {
+      "path": "work/tm_yolo/splits/stage_strat.csv",
+      "bytes": 5104710,
+      "sha256": "676c80c6c7917b2488327db4ea0ab9892681d29684824d8011c24eb1fcb08c9e"
+    },
+    {
+      "path": "work/tm_yolo/splits/temporal_fwd.csv",
+      "bytes": 5108790,
+      "sha256": "ca13c6dfb190b86e90ca94613a6461fc2f126356ebad2f74952c142e716a961d"
+    },
+    {
+      "path": "work/tm_yolo/splits/temporal_rev.csv",
+      "bytes": 5122950,
+      "sha256": "1df305bfb363c77efd9e6c364676fb1b4dddabc26ed21871484427d56db4361c"
+    }
+  ],
+  "validation": {
+    "python": "3.10.9",
+    "ultralytics": "8.4.213",
+    "ast_and_py_compile_scripts": 11,
+    "configuration_imports": "all copied modules; default and relative/absolute TOMATOMAP_DATA_ROOT passed",
+    "cli_help_scripts": 10,
+    "runtime_config_tests": "all 8 archived split CSVs; cam2-only training/validation list counts passed",
+    "paired_subset_test": "592 union-minus-train images, matched archived paired list",
+    "unchanged_numerical_functions": 21,
+    "archived_csv_numeric_cells": "all preserved",
+    "bootstrap_executed": true,
+    "training_or_image_inference_executed": false,
+    "offline_tables_recomputed": {
+      "T10_class_stage_matrix.csv": 882,
+      "T10_class_stage_matrix_domains.csv": 147,
+      "T12_band_naming.csv": 10
+    },
+    "stage_view_500_draw_independent_zip_replication": true
+  },
+  "limitations": [
+    "No images, per-image labels, detector weights, historical run trees or whole-run table aggregation script are bundled.",
+    "Code licensing requires author confirmation before public redistribution.",
+    "Environment pins are observed direct versions; clean installation and GPU retraining were not tested.",
+    "The independent T11 upstream audit requires samples.json; it was not rerun against the source dataset."
+  ],
+  "affiliation": "School of Physics and Electronic Information Engineering, Hubei Engineering University, Xiaogan 432000, China",
+  "funding": [
+    "Natural Science Foundation of Hubei Province (2026AFB666)",
+    "Joint Fund for Innovation and Development of Natural Science Foundation of Hubei Province (Xiaogan Innovation and Development Joint Fund Key Project, 2026AFC0666)"
+  ]
+}

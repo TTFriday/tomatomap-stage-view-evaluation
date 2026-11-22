@@ -1,0 +1,80 @@
+TomatoMAP stage-view evaluation
+Authors: Lifen Tu and Qi Peng. Repository: https://github.com/TTFriday/tomatomap-stage-view-evaluation.
+Research code and numerical results. No source images or model weights are redistributed.
+
+INSTALL
+Use Python 3.10.9 (recorded version) and run commands from the extracted root:
+  python -m venv .venv
+Activate it using your platform's standard venv activation command, then:
+  python -m pip install -r requirements.txt
+Recorded GPU builds: torch 2.6.0+cu124, torchvision 0.21.0+cu124. If needed, install
+those pinned versions first from https://download.pytorch.org/whl/cu124.
+Direct dependencies are pinned to observed versions, not unverified newer releases.
+
+NUMERICAL ANALYSES WITHOUT IMAGES
+  python scripts/tm_class_stage.py
+  python scripts/tm_band_naming.py
+  python scripts/tm_drift.py
+The first two read archived tables/index and write work/tm_yolo/tables; drift writes
+work/tm_yolo/drift_schedule.csv. Archived tables/ are not overwritten. Usable class
+support is >=20 by default. Matrix and domain analyses keep runs/cameras separate.
+Zero-GT classes have no observed AP; legacy scalar fillers are not measurements.
+
+UPSTREAM COVERAGE AUDIT
+The independent T11 audit reads upstream samples.json rather than relying on the
+exported index. Extract upstream data with samples.json and its image paths intact
+into data/TomatoMAP, or set TOMATOMAP_DATA_ROOT to that input directory in your shell:
+  python scripts/tm_bbch_gap.py
+This does not require image inference. The archived T11 CSVs remain available if
+samples.json has not been obtained. Modified tomato BBCH defines 67 SI Table S1
+codes and 50 released Table S2 codes. Codes 30-50 are structurally undefined;
+51-29=22 is the minimum adjacent crossing. BBCH is not a continuous observation axis.
+
+OPTIONAL IMAGE EXPORT AND MODEL EVALUATION
+  python scripts/tm_export.py
+  python scripts/tm_prepare.py
+Export rebuilds labels/index/splits and copies images locally, never changing the
+upstream input. Prepare only regenerates runtime YAML/image lists from archived
+split CSVs; it neither downloads images nor writes labels. work_root is always
+this package's work/tm_yolo. The archived reverse-stage split is included; its
+construction script is in the separate benchmark package, not duplicated here.
+No absolute-path generated YAML or ordinary image-list files are shipped.
+
+Supply pretrained yolo11s.pt and yolo11n.pt in work/weights. Optional official download:
+  python -c "from pathlib import Path; from urllib.request import urlretrieve; p=Path('work/weights'); p.mkdir(parents=True,exist_ok=True); [urlretrieve('https://huggingface.co/Ultralytics/YOLO11/resolve/main/'+n,str(p/n)) for n in ('yolo11s.pt','yolo11n.pt')]"
+Compare SHA256 fingerprints in release_metadata.json before claiming exact
+initialization and respect the upstream model license. Example training/evaluation:
+  python scripts/tm_train.py --protocol per_plant --model yolo11s --imgsz 800 --epochs 60 --batch 16 --workers 12 --tag b1
+  python scripts/tm_eval.py --run work/tm_yolo/runs/per_plant/per_plant__yolo11s__img800__e60__b16__b1 --group camera --weights last.pt
+  python scripts/tm_eval.py --run work/tm_yolo/runs/per_plant/per_plant__yolo11s__img800__e60__b16__b1 --group bbch_bucket --weights last.pt
+Paired evaluation requires trained runs for all selected arms and full planned
+epochs; early stopping uses validation. tm_dump_pred.py collects library statistics
+for later numerical analysis. This package includes matched per_set prediction
+archives for all four cameras and the stage/view interval results. Use each script's --help for actual CLI arguments.
+No images, labels, weights or historical per-run evaluation JSONs are bundled.
+T3/T4/T5/T6 contain archived results; the selected script set does not rebuild the
+original whole-run table collection. T10/T12 can be rebuilt directly from archived
+numerical inputs; T11 needs upstream samples.json. New runs need not be bit-identical.
+
+INTERPRETATION AND RIGHTS
+Train and validation use cam2_horizontal90 only. Cam1/3/4 are evaluation domains;
+full-view membership overlap does not demonstrate camera siblings entered training.
+These are protocol comparisons, not causal leakage-channel decompositions. Fix
+class sets and check support before comparing group AP; report observed code gaps
+rather than interpreting decade-bin names literally.
+Source: https://doi.org/10.1038/s41597-026-06926-9
+Data: https://doi.org/10.5447/ipk/2025/14 (upstream data license: CC BY 4.0).
+No source photographs are redistributed; this package grants no new photo rights.
+Consult upstream attribution, photographic rights and third-party terms separately.
+Code copyright is retained by Lifen Tu and Qi Peng. No software licence has
+been selected for this archive. Dataset, dependency and model licences are separate.
+
+MATCHED STAGE AND VIEW ANALYSIS WITHOUT IMAGES
+  python scripts/stage_view_analysis.py sensitivity
+  python scripts/stage_view_analysis.py bootstrap --iters 500 --seed 20261117
+The second command uses archived library prediction arrays for the same 1,612
+image sets at every camera. It resamples 100 whole plants with common draws,
+recomputes AP, and reports valid replicate counts without absent-class imputation.
+The reproductive windows contain 81 contributing plants in their union; the
+resampling population remains the same 100 primary test plants. These analyses
+write T16--T18 outputs under work/tm_yolo/tables; archived tables/ remain unchanged.

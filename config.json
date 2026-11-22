@@ -1,0 +1,9 @@
+{
+  "src_root": "data/TomatoMAP",
+  "work_root": "work/tm_yolo",
+  "seed": 888,
+  "ratio": [0.70, 0.20, 0.10],
+  "train_cam": "cam2_horizontal90",
+  "imgsz": 800,
+  "epochs": 60
+}
