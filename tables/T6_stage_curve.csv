@@ -1,0 +1,111 @@
+run,protocol,cam,bucket,n_img,n_class_gt,group_mAP50,AP50_common,n_common_class,common_classes,group_mAP50_95,AP50_95_common,dropped
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,bbch_10_19,504,4,0.6089,0.9694,2,leaf;whole plant,0.4439,0.7442,axillary shoot;rispe
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,bbch_20_29,84,6,0.4615,0.8743,2,leaf;whole plant,0.2391,0.4483,axillary shoot;batch of flowers;rispe;shoot
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,bbch_50_59,168,6,0.3854,0.8234,2,leaf;whole plant,0.2145,0.4662,axillary shoot;batch of flowers;batch of fruits;rispe
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,bbch_60_69,360,7,0.4776,0.7028,2,leaf;whole plant,0.2488,0.3857,axillary shoot;batch of flowers;batch of fruits;rispe;shoot
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,bbch_70_79,912,6,0.4509,0.496,2,leaf;whole plant,0.2458,0.2562,axillary shoot;batch of flowers;batch of fruits;rispe
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,bbch_80_89,288,6,0.5183,0.555,2,leaf;whole plant,0.2995,0.2738,axillary shoot;batch of flowers;batch of fruits;rispe
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,bbch_10_19,217,3,0.6857,0.9669,2,leaf;whole plant,0.5002,0.739,axillary shoot
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,bbch_20_29,41,4,0.8008,0.8357,2,leaf;whole plant,0.386,0.4037,rispe;shoot
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,bbch_50_59,118,6,0.4646,0.8756,2,leaf;whole plant,0.2515,0.5214,axillary shoot;batch of flowers;rispe;shoot
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,bbch_60_69,258,6,0.522,0.7372,2,leaf;whole plant,0.2954,0.4393,axillary shoot;batch of flowers;rispe;shoot
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,bbch_70_79,762,7,0.5239,0.6011,2,leaf;whole plant,0.2923,0.3311,axillary shoot;batch of flowers;batch of fruits;rispe;shoot
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,bbch_80_89,219,5,0.6953,0.7276,2,leaf;whole plant,0.4144,0.3801,batch of flowers;batch of fruits;rispe
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,bbch_10_19,504,4,0.7692,0.979,2,leaf;whole plant,0.574,0.8772,axillary shoot;rispe
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,bbch_20_29,84,6,0.498,0.9467,2,leaf;whole plant,0.3846,0.8275,axillary shoot;batch of flowers;rispe;shoot
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,bbch_50_59,168,6,0.4488,0.9646,2,leaf;whole plant,0.3586,0.8548,axillary shoot;batch of flowers;batch of fruits;rispe
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,bbch_60_69,360,7,0.5921,0.9535,2,leaf;whole plant,0.403,0.8278,axillary shoot;batch of flowers;batch of fruits;rispe;shoot
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,bbch_70_79,912,6,0.6034,0.9124,2,leaf;whole plant,0.4279,0.7453,axillary shoot;batch of flowers;batch of fruits;rispe
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,bbch_80_89,288,6,0.6424,0.9145,2,leaf;whole plant,0.4698,0.7286,axillary shoot;batch of flowers;batch of fruits;rispe
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,bbch_10_19,504,4,0.4779,0.9457,2,leaf;whole plant,0.316,0.6288,axillary shoot;rispe
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,bbch_20_29,84,4,0.4319,0.8639,2,leaf;whole plant,0.3063,0.6126,axillary shoot;rispe
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,bbch_50_59,168,6,0.4267,0.8815,2,leaf;whole plant,0.3004,0.6262,axillary shoot;batch of flowers;batch of fruits;rispe
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,bbch_60_69,360,7,0.3772,0.8436,2,leaf;whole plant,0.2515,0.6128,axillary shoot;batch of flowers;batch of fruits;rispe;shoot
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,bbch_70_79,912,6,0.4037,0.7696,2,leaf;whole plant,0.2456,0.5126,axillary shoot;batch of flowers;batch of fruits;rispe
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,bbch_80_89,288,5,0.5436,0.722,2,leaf;whole plant,0.3287,0.434,batch of flowers;batch of fruits;rispe
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,bbch_10_19,504,4,0.7796,0.9793,2,leaf;whole plant,0.6488,0.8828,axillary shoot;rispe
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,bbch_20_29,84,6,0.5192,0.9454,2,leaf;whole plant,0.3976,0.8327,axillary shoot;batch of flowers;rispe;shoot
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,bbch_50_59,168,6,0.4502,0.9652,2,leaf;whole plant,0.3647,0.8559,axillary shoot;batch of flowers;batch of fruits;rispe
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,bbch_60_69,360,7,0.6228,0.9537,2,leaf;whole plant,0.4297,0.8311,axillary shoot;batch of flowers;batch of fruits;rispe;shoot
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,bbch_70_79,912,6,0.6209,0.9127,2,leaf;whole plant,0.4446,0.7477,axillary shoot;batch of flowers;batch of fruits;rispe
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,bbch_80_89,288,6,0.6587,0.9118,2,leaf;whole plant,0.4916,0.7361,axillary shoot;batch of flowers;batch of fruits;rispe
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,bbch_10_19,504,5,0.7581,0.8994,2,leaf;whole plant,0.4401,0.5524,axillary shoot;batch of flowers;rispe
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,bbch_20_29,84,4,0.5384,0.9228,2,leaf;whole plant,0.3533,0.6268,batch of flowers;rispe
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,bbch_50_59,168,5,0.4197,0.9062,2,leaf;whole plant,0.2489,0.5601,axillary shoot;batch of flowers;rispe
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,bbch_60_69,360,7,0.3377,0.8393,2,leaf;whole plant,0.1913,0.506,axillary shoot;batch of flowers;batch of fruits;rispe;shoot
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,bbch_70_79,912,5,0.443,0.7375,2,leaf;whole plant,0.2109,0.3516,batch of flowers;batch of fruits;rispe
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,bbch_80_89,288,5,0.5519,0.723,2,leaf;whole plant,0.2565,0.3082,batch of flowers;batch of fruits;rispe
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,bbch_10_19,504,4,0.2747,0.5344,2,leaf;whole plant,0.1009,0.1978,batch of flowers;rispe
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,bbch_20_29,84,4,0.3794,0.7491,2,leaf;whole plant,0.1711,0.3365,batch of flowers;rispe
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,bbch_50_59,168,5,0.2971,0.7395,2,leaf;whole plant,0.154,0.3831,batch of flowers;batch of fruits;rispe
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,bbch_60_69,360,7,0.2047,0.6747,2,leaf;whole plant,0.1092,0.3644,axillary shoot;batch of flowers;batch of fruits;rispe;shoot
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,bbch_70_79,912,6,0.2056,0.5763,2,leaf;whole plant,0.1102,0.3135,axillary shoot;batch of flowers;batch of fruits;rispe
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,bbch_80_89,288,5,0.459,0.5814,2,leaf;whole plant,0.2402,0.2752,batch of flowers;batch of fruits;rispe
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,bbch_10_19,238,3,0.6368,0.9504,2,leaf;whole plant,0.4479,0.6694,axillary shoot
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,bbch_20_29,40,5,0.3646,0.886,2,leaf;whole plant,0.241,0.5927,axillary shoot;batch of flowers;rispe
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,bbch_50_59,121,5,0.5811,0.9027,2,leaf;whole plant,0.3197,0.6109,axillary shoot;batch of flowers;rispe
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,bbch_60_69,256,6,0.3813,0.8603,2,leaf;whole plant,0.2379,0.5866,axillary shoot;batch of flowers;batch of fruits;rispe
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,bbch_70_79,714,6,0.4628,0.8339,2,leaf;whole plant,0.282,0.5466,axillary shoot;batch of flowers;batch of fruits;rispe
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,bbch_80_89,243,5,0.6085,0.8267,2,leaf;whole plant,0.3839,0.5232,batch of flowers;batch of fruits;rispe
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,bbch_10_19,238,2,0.9793,0.9792,2,leaf;whole plant,0.8815,0.8815,
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,bbch_20_29,40,4,0.6421,0.9576,2,leaf;whole plant,0.4868,0.8335,axillary shoot;shoot
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,bbch_50_59,121,6,0.6707,0.9696,2,leaf;whole plant,0.4661,0.8706,axillary shoot;batch of flowers;rispe;shoot
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,bbch_60_69,256,7,0.567,0.9595,2,leaf;whole plant,0.4043,0.8367,axillary shoot;batch of flowers;batch of fruits;rispe;shoot
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,bbch_70_79,714,7,0.6503,0.9393,2,leaf;whole plant,0.4565,0.7973,axillary shoot;batch of flowers;batch of fruits;rispe;shoot
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,bbch_80_89,243,5,0.799,0.9329,2,leaf;whole plant,0.6134,0.7825,batch of flowers;batch of fruits;rispe
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,bbch_10_19,238,4,0.7181,0.9149,2,leaf;whole plant,0.4069,0.5532,batch of flowers;rispe
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,bbch_20_29,40,4,0.8354,0.9245,2,leaf;whole plant,0.4764,0.6294,batch of flowers;rispe
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,bbch_50_59,121,5,0.3928,0.9222,2,leaf;whole plant,0.267,0.6445,axillary shoot;batch of flowers;rispe
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,bbch_60_69,256,7,0.421,0.8731,2,leaf;whole plant,0.2575,0.5483,axillary shoot;batch of flowers;batch of fruits;rispe;shoot
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,bbch_70_79,714,6,0.5042,0.8314,2,leaf;whole plant,0.2797,0.4632,axillary shoot;batch of flowers;batch of fruits;rispe
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,bbch_80_89,243,6,0.4991,0.7996,2,leaf;whole plant,0.2526,0.3877,axillary shoot;batch of flowers;batch of fruits;rispe
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,bbch_10_19,238,4,0.2829,0.558,2,leaf;whole plant,0.11,0.2165,batch of flowers;rispe
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,bbch_20_29,40,5,0.3077,0.7693,2,leaf;whole plant,0.1538,0.3846,axillary shoot;batch of flowers;rispe
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,bbch_50_59,121,6,0.2538,0.7611,2,leaf;whole plant,0.1121,0.3362,axillary shoot;batch of flowers;rispe;shoot
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,bbch_60_69,256,7,0.2135,0.6789,2,leaf;whole plant,0.1053,0.3388,axillary shoot;batch of flowers;batch of fruits;rispe;shoot
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,bbch_70_79,714,7,0.2184,0.6355,2,leaf;whole plant,0.1165,0.3528,axillary shoot;batch of flowers;batch of fruits;rispe;shoot
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,bbch_80_89,243,6,0.351,0.5945,2,leaf;whole plant,0.1828,0.3076,axillary shoot;batch of flowers;batch of fruits;rispe
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,bbch_10_19,217,3,0.8044,0.9769,2,leaf;whole plant,0.611,0.8672,axillary shoot
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,bbch_20_29,41,4,0.6992,0.9506,2,leaf;whole plant,0.5126,0.8387,rispe;shoot
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,bbch_50_59,118,6,0.4109,0.9636,2,leaf;whole plant,0.3308,0.8619,axillary shoot;batch of flowers;rispe;shoot
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,bbch_60_69,258,6,0.6226,0.9576,2,leaf;whole plant,0.44,0.8295,axillary shoot;batch of flowers;rispe;shoot
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,bbch_70_79,762,7,0.6047,0.9354,2,leaf;whole plant,0.4257,0.7926,axillary shoot;batch of flowers;batch of fruits;rispe;shoot
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,bbch_80_89,219,5,0.7792,0.9362,2,leaf;whole plant,0.5928,0.7923,batch of flowers;batch of fruits;rispe
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,bbch_10_19,227,3,0.6431,0.9529,2,leaf;whole plant,0.4471,0.6653,axillary shoot
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,bbch_20_29,33,3,0.6191,0.9214,2,leaf;whole plant,0.4411,0.6568,axillary shoot
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,bbch_50_59,127,5,0.4762,0.8892,2,leaf;whole plant,0.3253,0.639,axillary shoot;batch of flowers;rispe
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,bbch_60_69,251,7,0.344,0.8421,2,leaf;whole plant,0.2282,0.6262,axillary shoot;batch of flowers;batch of fruits;rispe;shoot
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,bbch_70_79,690,6,0.45,0.8131,2,leaf;whole plant,0.2901,0.5735,axillary shoot;batch of flowers;batch of fruits;rispe
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,bbch_80_89,238,5,0.6797,0.8204,2,leaf;whole plant,0.4473,0.5364,batch of flowers;batch of fruits;rispe
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,bbch_10_19,217,3,0.815,0.9787,2,leaf;whole plant,0.6306,0.8753,axillary shoot
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,bbch_20_29,41,4,0.8163,0.9558,2,leaf;whole plant,0.5954,0.837,rispe;shoot
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,bbch_50_59,118,6,0.5384,0.9641,2,leaf;whole plant,0.3972,0.8626,axillary shoot;batch of flowers;rispe;shoot
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,bbch_60_69,258,6,0.6755,0.9582,2,leaf;whole plant,0.4634,0.8298,axillary shoot;batch of flowers;rispe;shoot
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,bbch_70_79,762,7,0.647,0.9375,2,leaf;whole plant,0.4579,0.7923,axillary shoot;batch of flowers;batch of fruits;rispe;shoot
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,bbch_80_89,219,5,0.8169,0.9376,2,leaf;whole plant,0.6301,0.7915,batch of flowers;batch of fruits;rispe
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,bbch_10_19,236,4,0.7106,0.909,2,leaf;whole plant,0.4351,0.5684,batch of flowers;rispe
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,bbch_20_29,38,3,0.6066,0.9099,2,leaf;whole plant,0.4326,0.6489,batch of flowers
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,bbch_50_59,135,5,0.4032,0.9188,2,leaf;whole plant,0.2852,0.6595,axillary shoot;batch of flowers;rispe
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,bbch_60_69,266,6,0.4394,0.8482,2,leaf;whole plant,0.2744,0.5494,axillary shoot;batch of flowers;batch of fruits;rispe
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,bbch_70_79,685,6,0.46,0.8272,2,leaf;whole plant,0.2498,0.4718,axillary shoot;batch of flowers;batch of fruits;rispe
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,bbch_80_89,245,6,0.5197,0.8115,2,leaf;whole plant,0.2662,0.3902,axillary shoot;batch of flowers;batch of fruits;rispe
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,bbch_10_19,257,4,0.2486,0.4541,2,leaf;whole plant,0.0957,0.1618,batch of flowers;rispe
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,bbch_20_29,28,5,0.3122,0.7761,2,leaf;whole plant,0.1462,0.3641,axillary shoot;batch of flowers;rispe
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,bbch_50_59,128,5,0.3301,0.8092,2,leaf;whole plant,0.148,0.3629,axillary shoot;batch of flowers;rispe
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,bbch_60_69,262,7,0.2273,0.7069,2,leaf;whole plant,0.1098,0.3542,axillary shoot;batch of flowers;batch of fruits;rispe;shoot
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,bbch_70_79,740,6,0.2487,0.6299,2,leaf;whole plant,0.1324,0.3438,axillary shoot;batch of flowers;batch of fruits;rispe
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,bbch_80_89,246,6,0.3547,0.6027,2,leaf;whole plant,0.1853,0.3155,axillary shoot;batch of flowers;batch of fruits;rispe
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,bbch_80_89,1620,6,0.5759,0.6699,5,leaf;batch of flowers;batch of fruits;whole plant;rispe,0.4048,0.4753,axillary shoot
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,bbch_10_19,1620,3,0.6464,0.7209,2,leaf;whole plant,0.4558,0.5096,axillary shoot
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,bbch_10_19,180,3,0.6489,0.9686,2,leaf;whole plant,0.5598,0.8377,axillary shoot
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,bbch_50_59,132,5,0.6505,0.9655,2,leaf;whole plant,0.4936,0.8554,axillary shoot;batch of flowers;rispe
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,bbch_60_69,324,7,0.579,0.9518,2,leaf;whole plant,0.4074,0.8309,axillary shoot;batch of flowers;batch of fruits;rispe;shoot
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,bbch_70_79,840,7,0.6478,0.9431,2,leaf;whole plant,0.4473,0.7871,axillary shoot;batch of flowers;batch of fruits;rispe;shoot
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,bbch_80_89,264,6,0.6791,0.9444,2,leaf;whole plant,0.526,0.7843,axillary shoot;batch of flowers;batch of fruits;rispe
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,bbch_70_79,576,6,0.6577,0.7889,5,leaf;batch of flowers;batch of fruits;whole plant;rispe,0.4835,0.58,axillary shoot
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,bbch_80_89,1104,6,0.6314,0.7577,5,leaf;batch of flowers;batch of fruits;whole plant;rispe,0.4678,0.5613,axillary shoot
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,bbch_10_19,240,6,0.3185,0.634,3,leaf;whole plant;axillary shoot,0.275,0.5487,batch of flowers;rispe;shoot
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,bbch_20_29,84,6,0.3152,0.5852,3,leaf;whole plant;axillary shoot,0.2462,0.485,batch of flowers;rispe;shoot
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,bbch_50_59,168,6,0.409,0.5988,3,leaf;whole plant;axillary shoot,0.2902,0.498,batch of flowers;rispe;shoot
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,bbch_60_69,420,7,0.3846,0.6022,3,leaf;whole plant;axillary shoot,0.259,0.4797,batch of flowers;batch of fruits;rispe;shoot
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,bbch_70_79,60,7,0.3771,0.5951,3,leaf;whole plant;axillary shoot,0.2478,0.4698,batch of flowers;batch of fruits;rispe;shoot

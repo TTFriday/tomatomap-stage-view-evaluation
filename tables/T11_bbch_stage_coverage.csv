@@ -1,0 +1,89 @@
+bbch_stage,principal_stage,in_table_s1,in_table_s2,det_images,in_seam,det_cam2_horizontal90,det_cam1_bottom45,det_cam3_tilttop135,det_cam4_vertical180
+0,Germination,Y,n,0,n,0,0,0,0
+1,Germination,Y,n,0,n,0,0,0,0
+3,Germination,Y,n,0,n,0,0,0,0
+5,Germination,Y,n,0,n,0,0,0,0
+7,Germination,Y,n,0,n,0,0,0,0
+9,Germination,Y,n,0,n,0,0,0,0
+10,Leaf development,Y,n,0,n,0,0,0,0
+11,Leaf development,Y,n,0,n,0,0,0,0
+12,Leaf development,Y,n,0,n,0,0,0,0
+13,Leaf development,Y,Y,5328,n,1332,1332,1332,1332
+14,Leaf development,Y,Y,2400,n,600,600,600,600
+15,Leaf development,Y,Y,1056,n,264,264,264,264
+16,Leaf development,Y,Y,432,n,108,108,108,108
+17,Leaf development,Y,Y,144,n,36,36,36,36
+18,Leaf development,Y,n,0,n,0,0,0,0
+19,Leaf development,Y,Y,48,n,12,12,12,12
+20,Side shoot development,Y,Y,528,n,132,132,132,132
+21,Side shoot development,Y,Y,144,n,36,36,36,36
+22,Side shoot development,Y,Y,144,n,36,36,36,36
+23,Side shoot development,Y,Y,48,n,12,12,12,12
+24,Side shoot development,Y,n,0,n,0,0,0,0
+25,Side shoot development,Y,n,0,n,0,0,0,0
+26,Side shoot development,Y,n,0,n,0,0,0,0
+27,Side shoot development,Y,Y,48,n,12,12,12,12
+28,Side shoot development,Y,Y,48,n,12,12,12,12
+29,Side shoot development,Y,Y,432,n,108,108,108,108
+30,undefined,n,n,0,Y,0,0,0,0
+31,undefined,n,n,0,Y,0,0,0,0
+32,undefined,n,n,0,Y,0,0,0,0
+33,undefined,n,n,0,Y,0,0,0,0
+34,undefined,n,n,0,Y,0,0,0,0
+35,undefined,n,n,0,Y,0,0,0,0
+36,undefined,n,n,0,Y,0,0,0,0
+37,undefined,n,n,0,Y,0,0,0,0
+38,undefined,n,n,0,Y,0,0,0,0
+39,undefined,n,n,0,Y,0,0,0,0
+40,undefined,n,n,0,Y,0,0,0,0
+41,undefined,n,n,0,Y,0,0,0,0
+42,undefined,n,n,0,Y,0,0,0,0
+43,undefined,n,n,0,Y,0,0,0,0
+44,undefined,n,n,0,Y,0,0,0,0
+45,undefined,n,n,0,Y,0,0,0,0
+46,undefined,n,n,0,Y,0,0,0,0
+47,undefined,n,n,0,Y,0,0,0,0
+48,undefined,n,n,0,Y,0,0,0,0
+49,undefined,n,n,0,Y,0,0,0,0
+50,undefined,n,n,0,Y,0,0,0,0
+51,Inflorescence emergence,Y,Y,576,n,144,144,144,144
+52,Inflorescence emergence,Y,Y,1296,n,324,324,324,324
+53,Inflorescence emergence,Y,Y,1536,n,384,384,384,384
+54,Inflorescence emergence,Y,Y,624,n,156,156,156,156
+55,Inflorescence emergence,Y,Y,432,n,108,108,108,108
+56,Inflorescence emergence,Y,Y,48,n,12,12,12,12
+57,Inflorescence emergence,Y,n,0,n,0,0,0,0
+58,Inflorescence emergence,Y,n,0,n,0,0,0,0
+59,Inflorescence emergence,Y,Y,144,n,36,36,36,36
+60,Flowering,Y,Y,1584,n,396,396,396,396
+61,Flowering,Y,Y,816,n,204,204,204,204
+62,Flowering,Y,Y,480,n,120,120,120,120
+63,Flowering,Y,Y,624,n,156,156,156,156
+64,Flowering,Y,Y,816,n,204,204,204,204
+65,Flowering,Y,Y,1248,n,312,312,312,312
+66,Flowering,Y,Y,720,n,180,180,180,180
+67,Flowering,Y,Y,1104,n,276,276,276,276
+68,Flowering,Y,Y,1536,n,384,384,384,384
+69,Flowering,Y,Y,1632,n,408,408,408,408
+70,Fruit development,Y,Y,3264,n,816,816,816,816
+71,Fruit development,Y,Y,2352,n,588,588,588,588
+72,Fruit development,Y,Y,2544,n,636,636,636,636
+73,Fruit development,Y,Y,2688,n,672,672,672,672
+74,Fruit development,Y,Y,2064,n,516,516,516,516
+75,Fruit development,Y,Y,2880,n,720,720,720,720
+76,Fruit development,Y,Y,2640,n,660,660,660,660
+77,Fruit development,Y,Y,2592,n,648,648,648,648
+78,Fruit development,Y,Y,3360,n,840,840,840,840
+79,Fruit development,Y,Y,4944,n,1236,1236,1236,1236
+80,Maturity of fruit,Y,Y,1392,n,348,348,348,348
+81,Maturity of fruit,Y,Y,1584,n,396,396,396,396
+82,Maturity of fruit,Y,Y,1296,n,324,324,324,324
+83,Maturity of fruit,Y,Y,1200,n,300,300,300,300
+84,Maturity of fruit,Y,Y,960,n,240,240,240,240
+85,Maturity of fruit,Y,Y,864,n,216,216,216,216
+86,Maturity of fruit,Y,Y,432,n,108,108,108,108
+87,Maturity of fruit,Y,Y,432,n,108,108,108,108
+88,Maturity of fruit,Y,Y,384,n,96,96,96,96
+89,Maturity of fruit,Y,Y,576,n,144,144,144,144
+97,Senescence,Y,n,0,n,0,0,0,0
+99,Senescence,Y,n,0,n,0,0,0,0

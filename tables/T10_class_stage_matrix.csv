@@ -1,0 +1,883 @@
+run,protocol,cam,cls,bucket,support,AP50,AP50_95,usable,n_usable_bins,usable_domain,gt_domain,dev_segment
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,axillary shoot,bbch_10_19,2.0,0.165,0.055,n,1,bbch_20_29..bbch_20_29,bbch_10_19..bbch_80_89,veg
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,axillary shoot,bbch_20_29,54.0,0.087,0.0215,Y,1,bbch_20_29..bbch_20_29,bbch_10_19..bbch_80_89,veg
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,axillary shoot,bbch_50_59,9.0,0.1411,0.0781,n,1,bbch_20_29..bbch_20_29,bbch_10_19..bbch_80_89,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,axillary shoot,bbch_60_69,7.0,0.4694,0.2227,n,1,bbch_20_29..bbch_20_29,bbch_10_19..bbch_80_89,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,axillary shoot,bbch_70_79,2.0,0.0,0.0,n,1,bbch_20_29..bbch_20_29,bbch_10_19..bbch_80_89,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,axillary shoot,bbch_80_89,1.0,0.0,0.0,n,1,bbch_20_29..bbch_20_29,bbch_10_19..bbch_80_89,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,batch of flowers,bbch_10_19,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,veg
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,batch of flowers,bbch_20_29,2.0,0.6061,0.3747,n,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,veg
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,batch of flowers,bbch_50_59,12.0,0.3803,0.2191,n,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,batch of flowers,bbch_60_69,173.0,0.7145,0.3804,Y,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,batch of flowers,bbch_70_79,574.0,0.446,0.2335,Y,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,batch of flowers,bbch_80_89,63.0,0.3817,0.1765,Y,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,batch of fruits,bbch_10_19,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,veg
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,batch of fruits,bbch_20_29,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,veg
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,batch of fruits,bbch_50_59,1.0,0.0,0.0,n,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,batch of fruits,bbch_60_69,10.0,0.0306,0.0201,n,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,batch of fruits,bbch_70_79,1220.0,0.6698,0.3925,Y,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,batch of fruits,bbch_80_89,682.0,0.8271,0.5598,Y,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,leaf,bbch_10_19,3141.0,0.9439,0.7279,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,leaf,bbch_20_29,950.0,0.8651,0.5772,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,leaf,bbch_50_59,1420.0,0.9056,0.646,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,leaf,bbch_60_69,3467.0,0.875,0.6058,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,leaf,bbch_70_79,7216.0,0.7422,0.4498,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,leaf,bbch_80_89,1736.0,0.7422,0.439,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,rispe,bbch_10_19,1.0,0.3317,0.2322,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,veg
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,rispe,bbch_20_29,6.0,0.2861,0.1337,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,veg
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,rispe,bbch_50_59,10.0,0.1441,0.0574,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,rispe,bbch_60_69,189.0,0.6248,0.3127,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,rispe,bbch_70_79,1386.0,0.5974,0.3365,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,rispe,bbch_80_89,677.0,0.7913,0.5129,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,shoot,bbch_10_19,,,,no_GT,0,,bbch_20_29..bbch_60_69,veg
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,shoot,bbch_20_29,11.0,0.0411,0.0081,n,0,,bbch_20_29..bbch_60_69,veg
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,shoot,bbch_50_59,,,,no_GT,0,,bbch_20_29..bbch_60_69,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,shoot,bbch_60_69,10.0,0.0984,0.0339,n,0,,bbch_20_29..bbch_60_69,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,shoot,bbch_70_79,,,,no_GT,0,,bbch_20_29..bbch_60_69,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,shoot,bbch_80_89,,,,no_GT,0,,bbch_20_29..bbch_60_69,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,whole plant,bbch_10_19,504.0,0.995,0.7605,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,whole plant,bbch_20_29,84.0,0.8836,0.3193,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,whole plant,bbch_50_59,168.0,0.7412,0.2865,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,whole plant,bbch_60_69,360.0,0.5306,0.1656,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,whole plant,bbch_70_79,918.0,0.2498,0.0627,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+broken__per_plant__yolo11s__img800__e60__b16__b4,broken__per_plant,cam2_horizontal90,whole plant,bbch_80_89,292.0,0.3677,0.1086,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,axillary shoot,bbch_10_19,4.0,0.1231,0.0226,n,1,bbch_60_69..bbch_60_69,bbch_10_19..bbch_70_79,veg
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,axillary shoot,bbch_20_29,,,,no_GT,1,bbch_60_69..bbch_60_69,bbch_10_19..bbch_70_79,veg
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,axillary shoot,bbch_50_59,7.0,0.2207,0.0925,n,1,bbch_60_69..bbch_60_69,bbch_10_19..bbch_70_79,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,axillary shoot,bbch_60_69,29.0,0.141,0.0561,Y,1,bbch_60_69..bbch_60_69,bbch_10_19..bbch_70_79,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,axillary shoot,bbch_70_79,19.0,0.3896,0.1485,n,1,bbch_60_69..bbch_60_69,bbch_10_19..bbch_70_79,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,axillary shoot,bbch_80_89,,,,no_GT,1,bbch_60_69..bbch_60_69,bbch_10_19..bbch_70_79,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,batch of flowers,bbch_10_19,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,veg
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,batch of flowers,bbch_20_29,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,veg
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,batch of flowers,bbch_50_59,7.0,0.421,0.1997,n,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,batch of flowers,bbch_60_69,279.0,0.68,0.3623,Y,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,batch of flowers,bbch_70_79,524.0,0.579,0.3257,Y,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,batch of flowers,bbch_80_89,42.0,0.3481,0.1873,Y,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,batch of fruits,bbch_10_19,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,veg
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,batch of fruits,bbch_20_29,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,veg
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,batch of fruits,bbch_50_59,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,batch of fruits,bbch_60_69,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,batch of fruits,bbch_70_79,1017.0,0.7387,0.4746,Y,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,batch of fruits,bbch_80_89,481.0,0.8439,0.5737,Y,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,leaf,bbch_10_19,1319.0,0.942,0.7297,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,leaf,bbch_20_29,392.0,0.863,0.6037,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,leaf,bbch_50_59,1078.0,0.9158,0.6674,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,leaf,bbch_60_69,2664.0,0.8808,0.6025,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,leaf,bbch_70_79,6657.0,0.822,0.5496,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,leaf,bbch_80_89,1414.0,0.8182,0.5522,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,rispe,bbch_10_19,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,veg
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,rispe,bbch_20_29,1.0,0.995,0.597,n,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,veg
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,rispe,bbch_50_59,12.0,0.3791,0.1632,n,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,rispe,bbch_60_69,246.0,0.7555,0.4461,Y,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,rispe,bbch_70_79,1279.0,0.681,0.4114,Y,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,rispe,bbch_80_89,467.0,0.8295,0.5509,Y,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,shoot,bbch_10_19,,,,no_GT,1,bbch_60_69..bbch_60_69,bbch_20_29..bbch_70_79,veg
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,shoot,bbch_20_29,2.0,0.5367,0.1397,n,1,bbch_60_69..bbch_60_69,bbch_20_29..bbch_70_79,veg
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,shoot,bbch_50_59,2.0,0.0155,0.0108,n,1,bbch_60_69..bbch_60_69,bbch_20_29..bbch_70_79,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,shoot,bbch_60_69,21.0,0.081,0.0295,Y,1,bbch_60_69..bbch_60_69,bbch_20_29..bbch_70_79,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,shoot,bbch_70_79,4.0,0.0763,0.0237,n,1,bbch_60_69..bbch_60_69,bbch_20_29..bbch_70_79,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,shoot,bbch_80_89,,,,no_GT,1,bbch_60_69..bbch_60_69,bbch_20_29..bbch_70_79,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,whole plant,bbch_10_19,217.0,0.9919,0.7483,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,whole plant,bbch_20_29,41.0,0.8084,0.2037,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,whole plant,bbch_50_59,118.0,0.8354,0.3755,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,whole plant,bbch_60_69,259.0,0.5937,0.2761,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,whole plant,bbch_70_79,766.0,0.3803,0.1126,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+broken__random_img__yolo11s__img800__e60__b16__b4,broken__random_img,cam2_horizontal90,whole plant,bbch_80_89,221.0,0.637,0.2081,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,axillary shoot,bbch_10_19,2.0,0.1237,0.0442,n,1,bbch_20_29..bbch_20_29,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,axillary shoot,bbch_20_29,54.0,0.0332,0.0094,Y,1,bbch_20_29..bbch_20_29,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,axillary shoot,bbch_50_59,9.0,0.163,0.0855,n,1,bbch_20_29..bbch_20_29,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,axillary shoot,bbch_60_69,7.0,0.4358,0.2351,n,1,bbch_20_29..bbch_20_29,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,axillary shoot,bbch_70_79,2.0,0.0,0.0,n,1,bbch_20_29..bbch_20_29,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,axillary shoot,bbch_80_89,1.0,0.0,0.0,n,1,bbch_20_29..bbch_20_29,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,batch of flowers,bbch_10_19,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,veg
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,batch of flowers,bbch_20_29,2.0,0.6379,0.5169,n,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,veg
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,batch of flowers,bbch_50_59,12.0,0.4761,0.2766,n,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,batch of flowers,bbch_60_69,173.0,0.6988,0.3819,Y,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,batch of flowers,bbch_70_79,574.0,0.4952,0.2614,Y,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,batch of flowers,bbch_80_89,63.0,0.3348,0.1636,Y,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,batch of fruits,bbch_10_19,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,veg
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,batch of fruits,bbch_20_29,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,veg
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,batch of fruits,bbch_50_59,1.0,0.0,0.0,n,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,batch of fruits,bbch_60_69,10.0,0.0537,0.0222,n,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,batch of fruits,bbch_70_79,1220.0,0.6798,0.4332,Y,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,batch of fruits,bbch_80_89,682.0,0.8584,0.6203,Y,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,leaf,bbch_10_19,3141.0,0.963,0.786,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,leaf,bbch_20_29,950.0,0.8984,0.6711,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,leaf,bbch_50_59,1420.0,0.9342,0.7378,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,leaf,bbch_60_69,3467.0,0.912,0.706,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,leaf,bbch_70_79,7216.0,0.8298,0.5725,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,leaf,bbch_80_89,1736.0,0.8345,0.5667,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,rispe,bbch_10_19,1.0,0.995,0.4975,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,rispe,bbch_20_29,6.0,0.2477,0.0915,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,rispe,bbch_50_59,10.0,0.1244,0.0801,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,rispe,bbch_60_69,189.0,0.596,0.3074,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,rispe,bbch_70_79,1386.0,0.6203,0.3823,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,rispe,bbch_80_89,677.0,0.8322,0.5777,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,shoot,bbch_10_19,,,,no_GT,0,,bbch_20_29..bbch_60_69,veg
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,shoot,bbch_20_29,11.0,0.1757,0.0347,n,0,,bbch_20_29..bbch_60_69,veg
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,shoot,bbch_50_59,,,,no_GT,0,,bbch_20_29..bbch_60_69,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,shoot,bbch_60_69,10.0,0.4531,0.2184,n,0,,bbch_20_29..bbch_60_69,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,shoot,bbch_70_79,,,,no_GT,0,,bbch_20_29..bbch_60_69,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,shoot,bbch_80_89,,,,no_GT,0,,bbch_20_29..bbch_60_69,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,whole plant,bbch_10_19,504.0,0.995,0.9683,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,whole plant,bbch_20_29,84.0,0.995,0.9839,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,whole plant,bbch_50_59,168.0,0.995,0.9717,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,whole plant,bbch_60_69,360.0,0.995,0.9496,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,whole plant,bbch_70_79,918.0,0.995,0.9181,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11n__img640__e200__b16__off_n640,per_plant,cam2_horizontal90,whole plant,bbch_80_89,292.0,0.9945,0.8904,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,axillary shoot,bbch_10_19,23.0,0.017,0.0052,Y,2,bbch_10_19..bbch_60_69,bbch_10_19..bbch_70_79,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,axillary shoot,bbch_20_29,6.0,0.0,0.0,n,2,bbch_10_19..bbch_60_69,bbch_10_19..bbch_70_79,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,axillary shoot,bbch_50_59,8.0,0.0755,0.0505,n,2,bbch_10_19..bbch_60_69,bbch_10_19..bbch_70_79,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,axillary shoot,bbch_60_69,24.0,0.3335,0.2164,Y,2,bbch_10_19..bbch_60_69,bbch_10_19..bbch_70_79,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,axillary shoot,bbch_70_79,14.0,0.0207,0.0062,n,2,bbch_10_19..bbch_60_69,bbch_10_19..bbch_70_79,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,axillary shoot,bbch_80_89,,,,no_GT,2,bbch_10_19..bbch_60_69,bbch_10_19..bbch_70_79,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,batch of flowers,bbch_10_19,,,,no_GT,2,bbch_60_69..bbch_70_79,bbch_50_59..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,batch of flowers,bbch_20_29,,,,no_GT,2,bbch_60_69..bbch_70_79,bbch_50_59..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,batch of flowers,bbch_50_59,3.0,0.3858,0.2315,n,2,bbch_60_69..bbch_70_79,bbch_50_59..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,batch of flowers,bbch_60_69,66.0,0.3765,0.2,Y,2,bbch_60_69..bbch_70_79,bbch_50_59..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,batch of flowers,bbch_70_79,159.0,0.2332,0.1164,Y,2,bbch_60_69..bbch_70_79,bbch_50_59..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,batch of flowers,bbch_80_89,11.0,0.025,0.0142,n,2,bbch_60_69..bbch_70_79,bbch_50_59..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,batch of fruits,bbch_10_19,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,batch of fruits,bbch_20_29,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,batch of fruits,bbch_50_59,1.0,0.0,0.0,n,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,batch of fruits,bbch_60_69,5.0,0.0004,0.0001,n,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,batch of fruits,bbch_70_79,401.0,0.3244,0.1715,Y,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,batch of fruits,bbch_80_89,309.0,0.627,0.3873,Y,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,leaf,bbch_10_19,3413.0,0.8964,0.5694,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,leaf,bbch_20_29,664.0,0.7327,0.4124,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,leaf,bbch_50_59,1029.0,0.768,0.444,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,leaf,bbch_60_69,2096.0,0.6921,0.3882,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,leaf,bbch_70_79,3708.0,0.5462,0.2785,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,leaf,bbch_80_89,904.0,0.4738,0.2215,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,rispe,bbch_10_19,1.0,0.0035,0.0014,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,rispe,bbch_20_29,3.0,0.0,0.0,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,rispe,bbch_50_59,3.0,0.3357,0.2683,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,rispe,bbch_60_69,67.0,0.2426,0.1181,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,rispe,bbch_70_79,482.0,0.3044,0.1543,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,rispe,bbch_80_89,320.0,0.6221,0.3739,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,shoot,bbch_10_19,,,,no_GT,0,,bbch_60_69..bbch_60_69,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,shoot,bbch_20_29,,,,no_GT,0,,bbch_60_69..bbch_60_69,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,shoot,bbch_50_59,,,,no_GT,0,,bbch_60_69..bbch_60_69,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,shoot,bbch_60_69,1.0,0.0,0.0,n,0,,bbch_60_69..bbch_60_69,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,shoot,bbch_70_79,,,,no_GT,0,,bbch_60_69..bbch_60_69,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,shoot,bbch_80_89,,,,no_GT,0,,bbch_60_69..bbch_60_69,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,whole plant,bbch_10_19,504.0,0.995,0.6881,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,whole plant,bbch_20_29,84.0,0.995,0.8129,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,whole plant,bbch_50_59,168.0,0.995,0.8084,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,whole plant,bbch_60_69,360.0,0.995,0.8374,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,whole plant,bbch_70_79,913.0,0.9931,0.7466,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam1_bottom45,whole plant,bbch_80_89,289.0,0.9702,0.6466,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,axillary shoot,bbch_10_19,2.0,0.165,0.0337,n,1,bbch_20_29..bbch_20_29,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,axillary shoot,bbch_20_29,54.0,0.0564,0.0172,Y,1,bbch_20_29..bbch_20_29,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,axillary shoot,bbch_50_59,9.0,0.2497,0.1537,n,1,bbch_20_29..bbch_20_29,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,axillary shoot,bbch_60_69,7.0,0.5982,0.2909,n,1,bbch_20_29..bbch_20_29,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,axillary shoot,bbch_70_79,2.0,0.0088,0.0027,n,1,bbch_20_29..bbch_20_29,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,axillary shoot,bbch_80_89,1.0,0.0,0.0,n,1,bbch_20_29..bbch_20_29,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,batch of flowers,bbch_10_19,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,batch of flowers,bbch_20_29,2.0,0.595,0.456,n,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,batch of flowers,bbch_50_59,12.0,0.3983,0.243,n,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,batch of flowers,bbch_60_69,173.0,0.7627,0.4503,Y,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,batch of flowers,bbch_70_79,574.0,0.4945,0.2683,Y,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,batch of flowers,bbch_80_89,63.0,0.4199,0.2154,Y,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,batch of fruits,bbch_10_19,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,batch of fruits,bbch_20_29,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,batch of fruits,bbch_50_59,1.0,0.0,0.0,n,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,batch of fruits,bbch_60_69,10.0,0.0456,0.0146,n,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,batch of fruits,bbch_70_79,1220.0,0.7335,0.4812,Y,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,batch of fruits,bbch_80_89,682.0,0.8723,0.6552,Y,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,leaf,bbch_10_19,3141.0,0.9636,0.7966,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,leaf,bbch_20_29,950.0,0.8957,0.6845,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,leaf,bbch_50_59,1420.0,0.9355,0.7465,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,leaf,bbch_60_69,3467.0,0.9124,0.7172,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,leaf,bbch_70_79,7216.0,0.8305,0.5833,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,leaf,bbch_80_89,1736.0,0.8386,0.581,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,rispe,bbch_10_19,1.0,0.995,0.796,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,rispe,bbch_20_29,6.0,0.447,0.2135,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,rispe,bbch_50_59,10.0,0.1225,0.0796,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,rispe,bbch_60_69,189.0,0.6659,0.3881,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,rispe,bbch_70_79,1386.0,0.6633,0.4201,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,rispe,bbch_80_89,677.0,0.8363,0.6065,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,shoot,bbch_10_19,,,,no_GT,0,,bbch_20_29..bbch_60_69,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,shoot,bbch_20_29,11.0,0.1262,0.0332,n,0,,bbch_20_29..bbch_60_69,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,shoot,bbch_50_59,,,,no_GT,0,,bbch_20_29..bbch_60_69,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,shoot,bbch_60_69,10.0,0.3796,0.202,n,0,,bbch_20_29..bbch_60_69,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,shoot,bbch_70_79,,,,no_GT,0,,bbch_20_29..bbch_60_69,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,shoot,bbch_80_89,,,,no_GT,0,,bbch_20_29..bbch_60_69,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,whole plant,bbch_10_19,504.0,0.995,0.969,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,whole plant,bbch_20_29,84.0,0.995,0.9809,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,whole plant,bbch_50_59,168.0,0.995,0.9653,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,whole plant,bbch_60_69,360.0,0.995,0.945,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,whole plant,bbch_70_79,918.0,0.995,0.9121,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam2_horizontal90,whole plant,bbch_80_89,292.0,0.985,0.8913,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,axillary shoot,bbch_10_19,1.0,0.995,0.2985,n,0,,bbch_10_19..bbch_60_69,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,axillary shoot,bbch_20_29,,,,no_GT,0,,bbch_10_19..bbch_60_69,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,axillary shoot,bbch_50_59,19.0,0.0704,0.0207,n,0,,bbch_10_19..bbch_60_69,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,axillary shoot,bbch_60_69,1.0,0.0,0.0,n,0,,bbch_10_19..bbch_60_69,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,axillary shoot,bbch_70_79,,,,no_GT,0,,bbch_10_19..bbch_60_69,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,axillary shoot,bbch_80_89,,,,no_GT,0,,bbch_10_19..bbch_60_69,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,batch of flowers,bbch_10_19,1.0,0.995,0.796,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,batch of flowers,bbch_20_29,10.0,0.0953,0.0314,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,batch of flowers,bbch_50_59,19.0,0.2058,0.0984,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,batch of flowers,bbch_60_69,167.0,0.3132,0.1716,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,batch of flowers,bbch_70_79,320.0,0.0799,0.0372,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,batch of flowers,bbch_80_89,30.0,0.0232,0.0114,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,batch of fruits,bbch_10_19,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,batch of fruits,bbch_20_29,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,batch of fruits,bbch_50_59,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,batch of fruits,bbch_60_69,6.0,0.0001,0.0,n,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,batch of fruits,bbch_70_79,696.0,0.3977,0.1933,Y,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,batch of fruits,bbch_80_89,518.0,0.6738,0.3386,Y,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,leaf,bbch_10_19,2693.0,0.8221,0.4995,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,leaf,bbch_20_29,593.0,0.8514,0.5105,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,leaf,bbch_50_59,1012.0,0.818,0.4794,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,leaf,bbch_60_69,2408.0,0.687,0.3816,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,leaf,bbch_70_79,5526.0,0.4996,0.2409,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,leaf,bbch_80_89,1252.0,0.541,0.2481,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,rispe,bbch_10_19,1.0,0.0019,0.0012,n,4,bbch_50_59..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,rispe,bbch_20_29,8.0,0.2126,0.128,n,4,bbch_50_59..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,rispe,bbch_50_59,21.0,0.0098,0.005,Y,4,bbch_50_59..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,rispe,bbch_60_69,151.0,0.2065,0.1015,Y,4,bbch_50_59..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,rispe,bbch_70_79,930.0,0.2624,0.1208,Y,4,bbch_50_59..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,rispe,bbch_80_89,523.0,0.6164,0.3162,Y,4,bbch_50_59..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,shoot,bbch_10_19,,,,no_GT,0,,bbch_60_69..bbch_60_69,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,shoot,bbch_20_29,,,,no_GT,0,,bbch_60_69..bbch_60_69,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,shoot,bbch_50_59,,,,no_GT,0,,bbch_60_69..bbch_60_69,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,shoot,bbch_60_69,1.0,0.1658,0.0539,n,0,,bbch_60_69..bbch_60_69,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,shoot,bbch_70_79,,,,no_GT,0,,bbch_60_69..bbch_60_69,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,shoot,bbch_80_89,,,,no_GT,0,,bbch_60_69..bbch_60_69,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,whole plant,bbch_10_19,504.0,0.9766,0.6054,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,whole plant,bbch_20_29,84.0,0.9942,0.7432,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,whole plant,bbch_50_59,168.0,0.9945,0.6408,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,whole plant,bbch_60_69,360.0,0.9915,0.6304,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,whole plant,bbch_70_79,910.0,0.9754,0.4623,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam3_tilttop135,whole plant,bbch_80_89,289.0,0.9051,0.3682,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,axillary shoot,bbch_10_19,,,,no_GT,0,,bbch_60_69..bbch_70_79,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,axillary shoot,bbch_20_29,,,,no_GT,0,,bbch_60_69..bbch_70_79,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,axillary shoot,bbch_50_59,,,,no_GT,0,,bbch_60_69..bbch_70_79,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,axillary shoot,bbch_60_69,1.0,0.0,0.0,n,0,,bbch_60_69..bbch_70_79,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,axillary shoot,bbch_70_79,1.0,0.0,0.0,n,0,,bbch_60_69..bbch_70_79,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,axillary shoot,bbch_80_89,,,,no_GT,0,,bbch_60_69..bbch_70_79,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,batch of flowers,bbch_10_19,5.0,0.0289,0.0079,n,2,bbch_60_69..bbch_70_79,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,batch of flowers,bbch_20_29,14.0,0.0191,0.011,n,2,bbch_60_69..bbch_70_79,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,batch of flowers,bbch_50_59,9.0,0.0063,0.0032,n,2,bbch_60_69..bbch_70_79,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,batch of flowers,bbch_60_69,91.0,0.0579,0.0245,Y,2,bbch_60_69..bbch_70_79,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,batch of flowers,bbch_70_79,91.0,0.001,0.0004,Y,2,bbch_60_69..bbch_70_79,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,batch of flowers,bbch_80_89,2.0,0.0,0.0,n,2,bbch_60_69..bbch_70_79,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,batch of fruits,bbch_10_19,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,batch of fruits,bbch_20_29,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,batch of fruits,bbch_50_59,1.0,0.0,0.0,n,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,batch of fruits,bbch_60_69,9.0,0.0046,0.0013,n,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,batch of fruits,bbch_70_79,249.0,0.0442,0.0189,Y,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,batch of fruits,bbch_80_89,364.0,0.572,0.3332,Y,2,bbch_70_79..bbch_80_89,bbch_50_59..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,leaf,bbch_10_19,3149.0,0.4545,0.1712,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,leaf,bbch_20_29,616.0,0.5057,0.2068,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,leaf,bbch_50_59,837.0,0.5008,0.208,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,leaf,bbch_60_69,1633.0,0.3784,0.1471,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,leaf,bbch_70_79,3215.0,0.23,0.0874,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,leaf,bbch_80_89,923.0,0.308,0.1205,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,rispe,bbch_10_19,4.0,0.0009,0.0002,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,rispe,bbch_20_29,15.0,0.0005,0.0002,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,rispe,bbch_50_59,13.0,0.0005,0.0002,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,rispe,bbch_60_69,97.0,0.021,0.01,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,rispe,bbch_70_79,336.0,0.0356,0.0147,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,rispe,bbch_80_89,347.0,0.5603,0.3177,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,shoot,bbch_10_19,,,,no_GT,0,,bbch_60_69..bbch_60_69,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,shoot,bbch_20_29,,,,no_GT,0,,bbch_60_69..bbch_60_69,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,shoot,bbch_50_59,,,,no_GT,0,,bbch_60_69..bbch_60_69,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,shoot,bbch_60_69,1.0,0.0,0.0,n,0,,bbch_60_69..bbch_60_69,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,shoot,bbch_70_79,,,,no_GT,0,,bbch_60_69..bbch_60_69,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,shoot,bbch_80_89,,,,no_GT,0,,bbch_60_69..bbch_60_69,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,whole plant,bbch_10_19,502.0,0.6144,0.2244,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,whole plant,bbch_20_29,84.0,0.9925,0.4662,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,whole plant,bbch_50_59,168.0,0.9782,0.5583,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,whole plant,bbch_60_69,360.0,0.9711,0.5816,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,whole plant,bbch_70_79,916.0,0.9226,0.5397,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_plant__yolo11s__img800__e60__b16__b1,per_plant,cam4_vertical180,whole plant,bbch_80_89,288.0,0.8547,0.4298,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,axillary shoot,bbch_10_19,7.0,0.0095,0.005,n,2,bbch_60_69..bbch_70_79,bbch_10_19..bbch_70_79,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,axillary shoot,bbch_20_29,3.0,0.0,0.0,n,2,bbch_60_69..bbch_70_79,bbch_10_19..bbch_70_79,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,axillary shoot,bbch_50_59,10.0,0.0766,0.0525,n,2,bbch_60_69..bbch_70_79,bbch_10_19..bbch_70_79,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,axillary shoot,bbch_60_69,24.0,0.0365,0.0176,Y,2,bbch_60_69..bbch_70_79,bbch_10_19..bbch_70_79,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,axillary shoot,bbch_70_79,20.0,0.0328,0.0092,Y,2,bbch_60_69..bbch_70_79,bbch_10_19..bbch_70_79,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,axillary shoot,bbch_80_89,,,,no_GT,2,bbch_60_69..bbch_70_79,bbch_10_19..bbch_70_79,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,batch of flowers,bbch_10_19,,,,no_GT,2,bbch_60_69..bbch_70_79,bbch_20_29..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,batch of flowers,bbch_20_29,1.0,0.0474,0.019,n,2,bbch_60_69..bbch_70_79,bbch_20_29..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,batch of flowers,bbch_50_59,1.0,0.995,0.3184,n,2,bbch_60_69..bbch_70_79,bbch_20_29..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,batch of flowers,bbch_60_69,133.0,0.2315,0.107,Y,2,bbch_60_69..bbch_70_79,bbch_20_29..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,batch of flowers,bbch_70_79,171.0,0.247,0.114,Y,2,bbch_60_69..bbch_70_79,bbch_20_29..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,batch of flowers,bbch_80_89,17.0,0.0541,0.0265,n,2,bbch_60_69..bbch_70_79,bbch_20_29..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,batch of fruits,bbch_10_19,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_60_69..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,batch of fruits,bbch_20_29,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_60_69..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,batch of fruits,bbch_50_59,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_60_69..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,batch of fruits,bbch_60_69,36.0,0.0086,0.0037,Y,3,bbch_60_69..bbch_80_89,bbch_60_69..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,batch of fruits,bbch_70_79,411.0,0.4274,0.2481,Y,3,bbch_60_69..bbch_80_89,bbch_60_69..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,batch of fruits,bbch_80_89,256.0,0.6961,0.4462,Y,3,bbch_60_69..bbch_80_89,bbch_60_69..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,leaf,bbch_10_19,1575.0,0.9058,0.5901,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,leaf,bbch_20_29,287.0,0.7769,0.4399,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,leaf,bbch_50_59,815.0,0.8108,0.4767,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,leaf,bbch_60_69,1754.0,0.7305,0.4051,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,leaf,bbch_70_79,3736.0,0.6751,0.3709,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,leaf,bbch_80_89,1056.0,0.6607,0.3548,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,rispe,bbch_10_19,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,rispe,bbch_20_29,2.0,0.0037,0.0006,n,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,rispe,bbch_50_59,6.0,0.0284,0.0058,n,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,rispe,bbch_60_69,149.0,0.2904,0.1259,Y,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,rispe,bbch_70_79,504.0,0.4018,0.2273,Y,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,rispe,bbch_80_89,260.0,0.6392,0.4004,Y,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,shoot,bbch_10_19,,,,no_GT,0,,,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,shoot,bbch_20_29,,,,no_GT,0,,,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,shoot,bbch_50_59,,,,no_GT,0,,,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,shoot,bbch_60_69,,,,no_GT,0,,,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,shoot,bbch_70_79,,,,no_GT,0,,,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,shoot,bbch_80_89,,,,no_GT,0,,,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,whole plant,bbch_10_19,238.0,0.995,0.7486,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,whole plant,bbch_20_29,40.0,0.995,0.7455,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,whole plant,bbch_50_59,121.0,0.9947,0.7451,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,whole plant,bbch_60_69,256.0,0.9902,0.7681,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,whole plant,bbch_70_79,714.0,0.9928,0.7223,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam1_bottom45,whole plant,bbch_80_89,245.0,0.9927,0.6915,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,axillary shoot,bbch_10_19,,,,no_GT,2,bbch_60_69..bbch_70_79,bbch_20_29..bbch_70_79,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,axillary shoot,bbch_20_29,3.0,0.045,0.0085,n,2,bbch_60_69..bbch_70_79,bbch_20_29..bbch_70_79,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,axillary shoot,bbch_50_59,8.0,0.6454,0.2478,n,2,bbch_60_69..bbch_70_79,bbch_20_29..bbch_70_79,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,axillary shoot,bbch_60_69,36.0,0.2232,0.0912,Y,2,bbch_60_69..bbch_70_79,bbch_20_29..bbch_70_79,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,axillary shoot,bbch_70_79,21.0,0.4341,0.1822,Y,2,bbch_60_69..bbch_70_79,bbch_20_29..bbch_70_79,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,axillary shoot,bbch_80_89,,,,no_GT,2,bbch_60_69..bbch_70_79,bbch_20_29..bbch_70_79,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,batch of flowers,bbch_10_19,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,batch of flowers,bbch_20_29,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,batch of flowers,bbch_50_59,10.0,0.5414,0.3319,n,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,batch of flowers,bbch_60_69,276.0,0.8357,0.4896,Y,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,batch of flowers,bbch_70_79,457.0,0.6511,0.3635,Y,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,batch of flowers,bbch_80_89,47.0,0.3682,0.2032,Y,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,batch of fruits,bbch_10_19,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,batch of fruits,bbch_20_29,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,batch of fruits,bbch_50_59,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,batch of fruits,bbch_60_69,3.0,0.069,0.0288,n,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,batch of fruits,bbch_70_79,910.0,0.7953,0.5492,Y,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,batch of fruits,bbch_80_89,530.0,0.8933,0.6677,Y,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,leaf,bbch_10_19,1510.0,0.9635,0.7904,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,leaf,bbch_20_29,411.0,0.9202,0.6996,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,leaf,bbch_50_59,1065.0,0.9442,0.7656,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,leaf,bbch_60_69,2667.0,0.924,0.7189,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,leaf,bbch_70_79,6296.0,0.8836,0.6641,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,leaf,bbch_80_89,1681.0,0.8708,0.6421,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,rispe,bbch_10_19,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,rispe,bbch_20_29,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,rispe,bbch_50_59,12.0,0.504,0.2885,n,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,rispe,bbch_60_69,247.0,0.7974,0.5065,Y,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,rispe,bbch_70_79,1121.0,0.7439,0.4934,Y,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,rispe,bbch_80_89,498.0,0.8679,0.6312,Y,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,shoot,bbch_10_19,,,,no_GT,1,bbch_60_69..bbch_60_69,bbch_20_29..bbch_70_79,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,shoot,bbch_20_29,3.0,0.6083,0.2716,n,1,bbch_60_69..bbch_60_69,bbch_20_29..bbch_70_79,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,shoot,bbch_50_59,3.0,0.3944,0.187,n,1,bbch_60_69..bbch_60_69,bbch_20_29..bbch_70_79,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,shoot,bbch_60_69,20.0,0.1245,0.0404,Y,1,bbch_60_69..bbch_60_69,bbch_20_29..bbch_70_79,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,shoot,bbch_70_79,3.0,0.0494,0.0124,n,1,bbch_60_69..bbch_60_69,bbch_20_29..bbch_70_79,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,shoot,bbch_80_89,,,,no_GT,1,bbch_60_69..bbch_60_69,bbch_20_29..bbch_70_79,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,whole plant,bbch_10_19,238.0,0.995,0.9726,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,whole plant,bbch_20_29,40.0,0.995,0.9674,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,whole plant,bbch_50_59,121.0,0.995,0.9757,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,whole plant,bbch_60_69,258.0,0.995,0.9544,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,whole plant,bbch_70_79,721.0,0.995,0.9304,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam2_horizontal90,whole plant,bbch_80_89,245.0,0.995,0.9229,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,axillary shoot,bbch_10_19,,,,no_GT,0,,bbch_50_59..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,axillary shoot,bbch_20_29,,,,no_GT,0,,bbch_50_59..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,axillary shoot,bbch_50_59,4.0,0.0983,0.0366,n,0,,bbch_50_59..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,axillary shoot,bbch_60_69,4.0,0.005,0.0024,n,0,,bbch_50_59..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,axillary shoot,bbch_70_79,5.0,0.2354,0.1798,n,0,,bbch_50_59..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,axillary shoot,bbch_80_89,4.0,0.0034,0.0014,n,0,,bbch_50_59..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,batch of flowers,bbch_10_19,1.0,0.995,0.4975,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,batch of flowers,bbch_20_29,1.0,0.995,0.2985,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,batch of flowers,bbch_50_59,13.0,0.0176,0.0083,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,batch of flowers,bbch_60_69,227.0,0.5196,0.2993,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,batch of flowers,bbch_70_79,399.0,0.1894,0.0938,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,batch of flowers,bbch_80_89,30.0,0.1271,0.0587,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,batch of fruits,bbch_10_19,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,batch of fruits,bbch_20_29,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,batch of fruits,bbch_50_59,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,batch of fruits,bbch_60_69,5.0,0.0007,0.0002,n,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,batch of fruits,bbch_70_79,555.0,0.5366,0.2774,Y,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,batch of fruits,bbch_80_89,418.0,0.6262,0.3366,Y,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,leaf,bbch_10_19,1281.0,0.8498,0.5332,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,leaf,bbch_20_29,271.0,0.854,0.5243,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,leaf,bbch_50_59,793.0,0.8493,0.5439,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,leaf,bbch_60_69,1896.0,0.7528,0.4295,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,leaf,bbch_70_79,4490.0,0.6719,0.3599,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,leaf,bbch_80_89,1195.0,0.6118,0.3112,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,rispe,bbch_10_19,1.0,0.0474,0.0237,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,rispe,bbch_20_29,1.0,0.4975,0.3483,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,rispe,bbch_50_59,13.0,0.0037,0.001,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,rispe,bbch_60_69,229.0,0.4765,0.2651,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,rispe,bbch_70_79,856.0,0.4009,0.2009,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,rispe,bbch_80_89,430.0,0.6387,0.3432,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,shoot,bbch_10_19,,,,no_GT,0,,bbch_60_69..bbch_60_69,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,shoot,bbch_20_29,,,,no_GT,0,,bbch_60_69..bbch_60_69,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,shoot,bbch_50_59,,,,no_GT,0,,bbch_60_69..bbch_60_69,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,shoot,bbch_60_69,1.0,0.199,0.1393,n,0,,bbch_60_69..bbch_60_69,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,shoot,bbch_70_79,,,,no_GT,0,,bbch_60_69..bbch_60_69,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,shoot,bbch_80_89,,,,no_GT,0,,bbch_60_69..bbch_60_69,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,whole plant,bbch_10_19,237.0,0.9801,0.5731,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,whole plant,bbch_20_29,40.0,0.995,0.7344,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,whole plant,bbch_50_59,121.0,0.995,0.7451,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,whole plant,bbch_60_69,257.0,0.9934,0.667,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,whole plant,bbch_70_79,715.0,0.9908,0.5665,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam3_tilttop135,whole plant,bbch_80_89,244.0,0.9874,0.4643,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,axillary shoot,bbch_10_19,,,,no_GT,0,,bbch_20_29..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,axillary shoot,bbch_20_29,2.0,0.0,0.0,n,0,,bbch_20_29..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,axillary shoot,bbch_50_59,4.0,0.0,0.0,n,0,,bbch_20_29..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,axillary shoot,bbch_60_69,4.0,0.0,0.0,n,0,,bbch_20_29..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,axillary shoot,bbch_70_79,3.0,0.0,0.0,n,0,,bbch_20_29..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,axillary shoot,bbch_80_89,1.0,0.0,0.0,n,0,,bbch_20_29..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,batch of flowers,bbch_10_19,2.0,0.009,0.0045,n,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,batch of flowers,bbch_20_29,5.0,0.0,0.0,n,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,batch of flowers,bbch_50_59,20.0,0.0002,0.0001,Y,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,batch of flowers,bbch_60_69,231.0,0.0515,0.0202,Y,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,batch of flowers,bbch_70_79,206.0,0.0243,0.0136,Y,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,batch of flowers,bbch_80_89,9.0,0.0776,0.0352,n,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,batch of fruits,bbch_10_19,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,batch of fruits,bbch_20_29,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,batch of fruits,bbch_50_59,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,batch of fruits,bbch_60_69,6.0,0.0,0.0,n,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,batch of fruits,bbch_70_79,353.0,0.139,0.0578,Y,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,batch of fruits,bbch_80_89,267.0,0.4176,0.2272,Y,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,leaf,bbch_10_19,1486.0,0.5507,0.2396,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,leaf,bbch_20_29,233.0,0.5859,0.2883,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,leaf,bbch_50_59,701.0,0.5485,0.2496,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,leaf,bbch_60_69,1595.0,0.4188,0.1747,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,leaf,bbch_70_79,3093.0,0.3331,0.1314,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,leaf,bbch_80_89,814.0,0.2701,0.1166,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,rispe,bbch_10_19,1.0,0.0067,0.0027,n,4,bbch_50_59..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,rispe,bbch_20_29,5.0,0.0,0.0,n,4,bbch_50_59..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,rispe,bbch_50_59,22.0,0.0005,0.0001,Y,4,bbch_50_59..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,rispe,bbch_60_69,238.0,0.085,0.0389,Y,4,bbch_50_59..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,rispe,bbch_70_79,483.0,0.0944,0.0385,Y,4,bbch_50_59..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,rispe,bbch_80_89,260.0,0.4216,0.2192,Y,4,bbch_50_59..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,shoot,bbch_10_19,,,,no_GT,0,,bbch_50_59..bbch_70_79,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,shoot,bbch_20_29,,,,no_GT,0,,bbch_50_59..bbch_70_79,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,shoot,bbch_50_59,1.0,0.0,0.0,n,0,,bbch_50_59..bbch_70_79,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,shoot,bbch_60_69,3.0,0.0,0.0,n,0,,bbch_50_59..bbch_70_79,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,shoot,bbch_70_79,1.0,0.0,0.0,n,0,,bbch_50_59..bbch_70_79,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,shoot,bbch_80_89,,,,no_GT,0,,bbch_50_59..bbch_70_79,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,whole plant,bbch_10_19,238.0,0.5653,0.1934,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,whole plant,bbch_20_29,40.0,0.9528,0.4808,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,whole plant,bbch_50_59,121.0,0.9738,0.4227,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,whole plant,bbch_60_69,257.0,0.939,0.5029,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,whole plant,bbch_70_79,720.0,0.938,0.5742,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+per_set__yolo11s__img800__e60__b16__b1,per_set,cam4_vertical180,whole plant,bbch_80_89,244.0,0.9189,0.4986,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,axillary shoot,bbch_10_19,4.0,0.4593,0.0987,n,1,bbch_60_69..bbch_60_69,bbch_10_19..bbch_70_79,veg
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,axillary shoot,bbch_20_29,,,,no_GT,1,bbch_60_69..bbch_60_69,bbch_10_19..bbch_70_79,veg
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,axillary shoot,bbch_50_59,7.0,0.0381,0.014,n,1,bbch_60_69..bbch_60_69,bbch_10_19..bbch_70_79,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,axillary shoot,bbch_60_69,29.0,0.1566,0.0707,Y,1,bbch_60_69..bbch_60_69,bbch_10_19..bbch_70_79,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,axillary shoot,bbch_70_79,19.0,0.2081,0.0799,n,1,bbch_60_69..bbch_60_69,bbch_10_19..bbch_70_79,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,axillary shoot,bbch_80_89,,,,no_GT,1,bbch_60_69..bbch_60_69,bbch_10_19..bbch_70_79,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,batch of flowers,bbch_10_19,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,veg
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,batch of flowers,bbch_20_29,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,veg
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,batch of flowers,bbch_50_59,7.0,0.2385,0.1342,n,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,batch of flowers,bbch_60_69,279.0,0.75,0.3932,Y,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,batch of flowers,bbch_70_79,524.0,0.5972,0.3263,Y,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,batch of flowers,bbch_80_89,42.0,0.3021,0.1384,Y,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,batch of fruits,bbch_10_19,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,veg
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,batch of fruits,bbch_20_29,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,veg
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,batch of fruits,bbch_50_59,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,batch of fruits,bbch_60_69,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,batch of fruits,bbch_70_79,1017.0,0.7754,0.5261,Y,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,batch of fruits,bbch_80_89,481.0,0.8749,0.6301,Y,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,leaf,bbch_10_19,1319.0,0.9588,0.7676,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,leaf,bbch_20_29,392.0,0.9063,0.7026,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,leaf,bbch_50_59,1078.0,0.9321,0.74,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,leaf,bbch_60_69,2664.0,0.9202,0.701,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,leaf,bbch_70_79,6657.0,0.8757,0.6491,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,leaf,bbch_80_89,1414.0,0.8774,0.6492,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,rispe,bbch_10_19,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,veg
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,rispe,bbch_20_29,1.0,0.4975,0.1741,n,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,veg
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,rispe,bbch_50_59,12.0,0.2541,0.1114,n,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,rispe,bbch_60_69,246.0,0.7379,0.4432,Y,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,rispe,bbch_70_79,1279.0,0.7082,0.452,Y,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,rispe,bbch_80_89,467.0,0.8466,0.6112,Y,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,shoot,bbch_10_19,,,,no_GT,1,bbch_60_69..bbch_60_69,bbch_20_29..bbch_70_79,veg
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,shoot,bbch_20_29,2.0,0.398,0.1988,n,1,bbch_60_69..bbch_60_69,bbch_20_29..bbch_70_79,veg
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,shoot,bbch_50_59,2.0,0.0077,0.0015,n,1,bbch_60_69..bbch_60_69,bbch_20_29..bbch_70_79,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,shoot,bbch_60_69,21.0,0.1759,0.074,Y,1,bbch_60_69..bbch_60_69,bbch_20_29..bbch_70_79,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,shoot,bbch_70_79,4.0,0.0735,0.0103,n,1,bbch_60_69..bbch_60_69,bbch_20_29..bbch_70_79,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,shoot,bbch_80_89,,,,no_GT,1,bbch_60_69..bbch_60_69,bbch_20_29..bbch_70_79,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,whole plant,bbch_10_19,217.0,0.995,0.9668,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,whole plant,bbch_20_29,41.0,0.995,0.9747,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,whole plant,bbch_50_59,118.0,0.995,0.9839,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,whole plant,bbch_60_69,259.0,0.995,0.958,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,whole plant,bbch_70_79,766.0,0.995,0.9361,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11n__img640__e200__b16__off_n640,random_img,cam2_horizontal90,whole plant,bbch_80_89,221.0,0.995,0.9353,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,axillary shoot,bbch_10_19,8.0,0.0235,0.0107,n,1,bbch_60_69..bbch_60_69,bbch_10_19..bbch_70_79,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,axillary shoot,bbch_20_29,2.0,0.0146,0.0096,n,1,bbch_60_69..bbch_60_69,bbch_10_19..bbch_70_79,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,axillary shoot,bbch_50_59,17.0,0.0798,0.0335,n,1,bbch_60_69..bbch_60_69,bbch_10_19..bbch_70_79,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,axillary shoot,bbch_60_69,20.0,0.0393,0.0151,Y,1,bbch_60_69..bbch_60_69,bbch_10_19..bbch_70_79,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,axillary shoot,bbch_70_79,14.0,0.0378,0.0154,n,1,bbch_60_69..bbch_60_69,bbch_10_19..bbch_70_79,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,axillary shoot,bbch_80_89,,,,no_GT,1,bbch_60_69..bbch_60_69,bbch_10_19..bbch_70_79,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,batch of flowers,bbch_10_19,,,,no_GT,2,bbch_60_69..bbch_70_79,bbch_50_59..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,batch of flowers,bbch_20_29,,,,no_GT,2,bbch_60_69..bbch_70_79,bbch_50_59..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,batch of flowers,bbch_50_59,2.0,0.495,0.297,n,2,bbch_60_69..bbch_70_79,bbch_50_59..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,batch of flowers,bbch_60_69,127.0,0.3139,0.1551,Y,2,bbch_60_69..bbch_70_79,bbch_50_59..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,batch of flowers,bbch_70_79,182.0,0.2046,0.1,Y,2,bbch_60_69..bbch_70_79,bbch_50_59..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,batch of flowers,bbch_80_89,6.0,0.3771,0.3251,n,2,bbch_60_69..bbch_70_79,bbch_50_59..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,batch of fruits,bbch_10_19,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_60_69..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,batch of fruits,bbch_20_29,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_60_69..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,batch of fruits,bbch_50_59,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_60_69..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,batch of fruits,bbch_60_69,36.0,0.0145,0.0062,Y,3,bbch_60_69..bbch_80_89,bbch_60_69..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,batch of fruits,bbch_70_79,377.0,0.4364,0.2503,Y,3,bbch_60_69..bbch_80_89,bbch_60_69..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,batch of fruits,bbch_80_89,253.0,0.6976,0.4246,Y,3,bbch_60_69..bbch_80_89,bbch_60_69..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,leaf,bbch_10_19,1499.0,0.9109,0.6013,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,leaf,bbch_20_29,252.0,0.8478,0.5121,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,leaf,bbch_50_59,878.0,0.7837,0.4679,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,leaf,bbch_60_69,1650.0,0.6893,0.3889,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,leaf,bbch_70_79,3504.0,0.6316,0.352,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,leaf,bbch_80_89,1021.0,0.6461,0.3441,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,rispe,bbch_10_19,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,rispe,bbch_20_29,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,rispe,bbch_50_59,3.0,0.0279,0.0183,n,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,rispe,bbch_60_69,135.0,0.356,0.1687,Y,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,rispe,bbch_70_79,477.0,0.3949,0.2278,Y,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,rispe,bbch_80_89,253.0,0.6832,0.4138,Y,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,shoot,bbch_10_19,,,,no_GT,0,,bbch_60_69..bbch_60_69,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,shoot,bbch_20_29,,,,no_GT,0,,bbch_60_69..bbch_60_69,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,shoot,bbch_50_59,,,,no_GT,0,,bbch_60_69..bbch_60_69,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,shoot,bbch_60_69,2.0,0.0,0.0,n,0,,bbch_60_69..bbch_60_69,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,shoot,bbch_70_79,,,,no_GT,0,,bbch_60_69..bbch_60_69,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,shoot,bbch_80_89,,,,no_GT,0,,bbch_60_69..bbch_60_69,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,whole plant,bbch_10_19,227.0,0.9949,0.7293,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,whole plant,bbch_20_29,33.0,0.995,0.8015,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,whole plant,bbch_50_59,127.0,0.9947,0.81,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,whole plant,bbch_60_69,251.0,0.995,0.8636,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,whole plant,bbch_70_79,690.0,0.9946,0.795,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam1_bottom45,whole plant,bbch_80_89,239.0,0.9946,0.7288,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,axillary shoot,bbch_10_19,4.0,0.4876,0.1413,n,1,bbch_60_69..bbch_60_69,bbch_10_19..bbch_70_79,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,axillary shoot,bbch_20_29,,,,no_GT,1,bbch_60_69..bbch_60_69,bbch_10_19..bbch_70_79,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,axillary shoot,bbch_50_59,7.0,0.2869,0.1226,n,1,bbch_60_69..bbch_60_69,bbch_10_19..bbch_70_79,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,axillary shoot,bbch_60_69,29.0,0.2669,0.1146,Y,1,bbch_60_69..bbch_60_69,bbch_10_19..bbch_70_79,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,axillary shoot,bbch_70_79,19.0,0.3087,0.1407,n,1,bbch_60_69..bbch_60_69,bbch_10_19..bbch_70_79,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,axillary shoot,bbch_80_89,,,,no_GT,1,bbch_60_69..bbch_60_69,bbch_10_19..bbch_70_79,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,batch of flowers,bbch_10_19,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,batch of flowers,bbch_20_29,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,batch of flowers,bbch_50_59,7.0,0.5185,0.2976,n,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,batch of flowers,bbch_60_69,279.0,0.778,0.4289,Y,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,batch of flowers,bbch_70_79,524.0,0.6424,0.3696,Y,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,batch of flowers,bbch_80_89,42.0,0.433,0.2473,Y,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,batch of fruits,bbch_10_19,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,batch of fruits,bbch_20_29,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,batch of fruits,bbch_50_59,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,batch of fruits,bbch_60_69,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,batch of fruits,bbch_70_79,1017.0,0.7977,0.5561,Y,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,batch of fruits,bbch_80_89,481.0,0.8982,0.6751,Y,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,leaf,bbch_10_19,1319.0,0.9624,0.7814,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,leaf,bbch_20_29,392.0,0.9166,0.721,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,leaf,bbch_50_59,1078.0,0.9332,0.7471,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,leaf,bbch_60_69,2664.0,0.9214,0.7047,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,leaf,bbch_70_79,6657.0,0.8801,0.6603,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,leaf,bbch_80_89,1414.0,0.8803,0.6556,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,rispe,bbch_10_19,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,rispe,bbch_20_29,1.0,0.995,0.597,n,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,rispe,bbch_50_59,12.0,0.419,0.2141,n,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,rispe,bbch_60_69,246.0,0.7933,0.4803,Y,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,rispe,bbch_70_79,1279.0,0.7467,0.4896,Y,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,rispe,bbch_80_89,467.0,0.8781,0.6451,Y,3,bbch_60_69..bbch_80_89,bbch_20_29..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,shoot,bbch_10_19,,,,no_GT,1,bbch_60_69..bbch_60_69,bbch_20_29..bbch_70_79,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,shoot,bbch_20_29,2.0,0.3586,0.1103,n,1,bbch_60_69..bbch_60_69,bbch_20_29..bbch_70_79,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,shoot,bbch_50_59,2.0,0.0778,0.0237,n,1,bbch_60_69..bbch_60_69,bbch_20_29..bbch_70_79,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,shoot,bbch_60_69,21.0,0.2985,0.097,Y,1,bbch_60_69..bbch_60_69,bbch_20_29..bbch_70_79,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,shoot,bbch_70_79,4.0,0.1582,0.0648,n,1,bbch_60_69..bbch_60_69,bbch_20_29..bbch_70_79,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,shoot,bbch_80_89,,,,no_GT,1,bbch_60_69..bbch_60_69,bbch_20_29..bbch_70_79,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,whole plant,bbch_10_19,217.0,0.995,0.9692,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,whole plant,bbch_20_29,41.0,0.995,0.9531,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,whole plant,bbch_50_59,118.0,0.995,0.9782,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,whole plant,bbch_60_69,259.0,0.995,0.955,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,whole plant,bbch_70_79,766.0,0.995,0.9243,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam2_horizontal90,whole plant,bbch_80_89,221.0,0.995,0.9274,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,axillary shoot,bbch_10_19,,,,no_GT,0,,bbch_50_59..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,axillary shoot,bbch_20_29,,,,no_GT,0,,bbch_50_59..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,axillary shoot,bbch_50_59,4.0,0.0129,0.0072,n,0,,bbch_50_59..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,axillary shoot,bbch_60_69,6.0,0.0013,0.0002,n,0,,bbch_50_59..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,axillary shoot,bbch_70_79,3.0,0.0036,0.0018,n,0,,bbch_50_59..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,axillary shoot,bbch_80_89,1.0,0.0,0.0,n,0,,bbch_50_59..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,batch of flowers,bbch_10_19,1.0,0.995,0.597,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,batch of flowers,bbch_20_29,1.0,0.0,0.0,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,batch of flowers,bbch_50_59,10.0,0.1479,0.0895,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,batch of flowers,bbch_60_69,222.0,0.4803,0.2793,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,batch of flowers,bbch_70_79,382.0,0.2223,0.1065,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,batch of flowers,bbch_80_89,31.0,0.1571,0.0878,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,batch of fruits,bbch_10_19,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,batch of fruits,bbch_20_29,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,batch of fruits,bbch_50_59,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,batch of fruits,bbch_60_69,3.0,0.0055,0.0028,n,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,batch of fruits,bbch_70_79,590.0,0.4722,0.2384,Y,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,batch of fruits,bbch_80_89,427.0,0.6795,0.3722,Y,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,leaf,bbch_10_19,1259.0,0.8268,0.5115,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,leaf,bbch_20_29,265.0,0.8247,0.5115,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,leaf,bbch_50_59,869.0,0.8426,0.5391,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,leaf,bbch_60_69,1896.0,0.7017,0.4209,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,leaf,bbch_70_79,4362.0,0.6662,0.3655,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,leaf,bbch_80_89,1184.0,0.6352,0.3244,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,rispe,bbch_10_19,1.0,0.0293,0.0064,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,rispe,bbch_20_29,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,rispe,bbch_50_59,10.0,0.0177,0.0102,n,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,rispe,bbch_60_69,211.0,0.4532,0.2651,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,rispe,bbch_70_79,797.0,0.4077,0.2084,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,rispe,bbch_80_89,430.0,0.6585,0.3569,Y,3,bbch_60_69..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,shoot,bbch_10_19,,,,no_GT,0,,,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,shoot,bbch_20_29,,,,no_GT,0,,,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,shoot,bbch_50_59,,,,no_GT,0,,,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,shoot,bbch_60_69,,,,no_GT,0,,,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,shoot,bbch_70_79,,,,no_GT,0,,,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,shoot,bbch_80_89,,,,no_GT,0,,,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,whole plant,bbch_10_19,236.0,0.9913,0.6253,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,whole plant,bbch_20_29,38.0,0.995,0.7863,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,whole plant,bbch_50_59,135.0,0.995,0.7798,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,whole plant,bbch_60_69,266.0,0.9947,0.6779,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,whole plant,bbch_70_79,685.0,0.9882,0.5781,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam3_tilttop135,whole plant,bbch_80_89,246.0,0.9877,0.456,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,axillary shoot,bbch_10_19,,,,no_GT,0,,bbch_20_29..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,axillary shoot,bbch_20_29,1.0,0.0,0.0,n,0,,bbch_20_29..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,axillary shoot,bbch_50_59,1.0,0.0,0.0,n,0,,bbch_20_29..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,axillary shoot,bbch_60_69,4.0,0.0,0.0,n,0,,bbch_20_29..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,axillary shoot,bbch_70_79,5.0,0.0,0.0,n,0,,bbch_20_29..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,axillary shoot,bbch_80_89,2.0,0.0,0.0,n,0,,bbch_20_29..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,batch of flowers,bbch_10_19,2.0,0.0825,0.0578,n,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,batch of flowers,bbch_20_29,3.0,0.0071,0.0021,n,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,batch of flowers,bbch_50_59,20.0,0.0277,0.0117,Y,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,batch of flowers,bbch_60_69,221.0,0.0969,0.0327,Y,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,batch of flowers,bbch_70_79,209.0,0.0104,0.0045,Y,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,batch of flowers,bbch_80_89,9.0,0.0017,0.0005,n,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,batch of fruits,bbch_10_19,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,batch of fruits,bbch_20_29,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,batch of fruits,bbch_50_59,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,batch of fruits,bbch_60_69,11.0,0.002,0.0005,n,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,batch of fruits,bbch_70_79,334.0,0.1241,0.0578,Y,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,batch of fruits,bbch_80_89,279.0,0.4633,0.237,Y,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,leaf,bbch_10_19,1599.0,0.5061,0.2164,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,leaf,bbch_20_29,180.0,0.6073,0.2902,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,leaf,bbch_50_59,721.0,0.6381,0.2974,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,leaf,bbch_60_69,1521.0,0.4592,0.1946,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,leaf,bbch_70_79,3205.0,0.3294,0.134,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,leaf,bbch_80_89,817.0,0.3148,0.1346,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,rispe,bbch_10_19,1.0,0.0039,0.0014,n,4,bbch_50_59..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,rispe,bbch_20_29,4.0,0.0016,0.0008,n,4,bbch_50_59..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,rispe,bbch_50_59,24.0,0.0042,0.0024,Y,4,bbch_50_59..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,rispe,bbch_60_69,217.0,0.0784,0.0268,Y,4,bbch_50_59..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,rispe,bbch_70_79,466.0,0.0978,0.0444,Y,4,bbch_50_59..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,rispe,bbch_80_89,274.0,0.4581,0.2435,Y,4,bbch_50_59..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,shoot,bbch_10_19,,,,no_GT,0,,bbch_60_69..bbch_60_69,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,shoot,bbch_20_29,,,,no_GT,0,,bbch_60_69..bbch_60_69,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,shoot,bbch_50_59,,,,no_GT,0,,bbch_60_69..bbch_60_69,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,shoot,bbch_60_69,1.0,0.0,0.0,n,0,,bbch_60_69..bbch_60_69,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,shoot,bbch_70_79,,,,no_GT,0,,bbch_60_69..bbch_60_69,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,shoot,bbch_80_89,,,,no_GT,0,,bbch_60_69..bbch_60_69,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,whole plant,bbch_10_19,257.0,0.402,0.1071,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,whole plant,bbch_20_29,28.0,0.945,0.4381,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,whole plant,bbch_50_59,128.0,0.9803,0.4285,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,whole plant,bbch_60_69,263.0,0.9547,0.5137,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,whole plant,bbch_70_79,745.0,0.9303,0.5535,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+random_img__yolo11s__img800__e60__b16__b1,random_img,cam4_vertical180,whole plant,bbch_80_89,246.0,0.8906,0.4963,Y,6,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,axillary shoot,bbch_10_19,,,,no_GT,0,,bbch_80_89..bbch_80_89,veg
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,axillary shoot,bbch_20_29,,,,no_GT,0,,bbch_80_89..bbch_80_89,veg
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,axillary shoot,bbch_50_59,,,,no_GT,0,,bbch_80_89..bbch_80_89,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,axillary shoot,bbch_60_69,,,,no_GT,0,,bbch_80_89..bbch_80_89,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,axillary shoot,bbch_70_79,,,,no_GT,0,,bbch_80_89..bbch_80_89,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,axillary shoot,bbch_80_89,16.0,0.1059,0.0518,n,0,,bbch_80_89..bbch_80_89,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,batch of flowers,bbch_10_19,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,veg
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,batch of flowers,bbch_20_29,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,veg
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,batch of flowers,bbch_50_59,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,batch of flowers,bbch_60_69,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,batch of flowers,bbch_70_79,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,batch of flowers,bbch_80_89,228.0,0.212,0.0984,Y,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,batch of fruits,bbch_10_19,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,veg
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,batch of fruits,bbch_20_29,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,veg
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,batch of fruits,bbch_50_59,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,batch of fruits,bbch_60_69,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,batch of fruits,bbch_70_79,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,batch of fruits,bbch_80_89,3571.0,0.6402,0.4042,Y,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,leaf,bbch_10_19,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,veg
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,leaf,bbch_20_29,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,veg
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,leaf,bbch_50_59,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,leaf,bbch_60_69,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,leaf,bbch_70_79,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,leaf,bbch_80_89,10488.0,0.842,0.5942,Y,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,rispe,bbch_10_19,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,veg
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,rispe,bbch_20_29,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,veg
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,rispe,bbch_50_59,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,rispe,bbch_60_69,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,rispe,bbch_70_79,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,rispe,bbch_80_89,3424.0,0.6601,0.4048,Y,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,shoot,bbch_10_19,,,,no_GT,0,,,veg
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,shoot,bbch_20_29,,,,no_GT,0,,,veg
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,shoot,bbch_50_59,,,,no_GT,0,,,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,shoot,bbch_60_69,,,,no_GT,0,,,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,shoot,bbch_70_79,,,,no_GT,0,,,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,shoot,bbch_80_89,,,,no_GT,0,,,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,whole plant,bbch_10_19,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,veg
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,whole plant,bbch_20_29,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,veg
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,whole plant,bbch_50_59,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,whole plant,bbch_60_69,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,whole plant,bbch_70_79,,,,no_GT,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,rep
+stage_holdout__yolo11s__img800__e60__b16__b1,stage_holdout,cam2_horizontal90,whole plant,bbch_80_89,1629.0,0.995,0.875,Y,1,bbch_80_89..bbch_80_89,bbch_80_89..bbch_80_89,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,axillary shoot,bbch_10_19,1.0,0.4975,0.3483,n,0,,bbch_10_19..bbch_10_19,veg
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,axillary shoot,bbch_20_29,,,,no_GT,0,,bbch_10_19..bbch_10_19,veg
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,axillary shoot,bbch_50_59,,,,no_GT,0,,bbch_10_19..bbch_10_19,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,axillary shoot,bbch_60_69,,,,no_GT,0,,bbch_10_19..bbch_10_19,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,axillary shoot,bbch_70_79,,,,no_GT,0,,bbch_10_19..bbch_10_19,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,axillary shoot,bbch_80_89,,,,no_GT,0,,bbch_10_19..bbch_10_19,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,batch of flowers,bbch_10_19,,,,no_GT,0,,,veg
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,batch of flowers,bbch_20_29,,,,no_GT,0,,,veg
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,batch of flowers,bbch_50_59,,,,no_GT,0,,,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,batch of flowers,bbch_60_69,,,,no_GT,0,,,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,batch of flowers,bbch_70_79,,,,no_GT,0,,,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,batch of flowers,bbch_80_89,,,,no_GT,0,,,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,batch of fruits,bbch_10_19,,,,no_GT,0,,,veg
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,batch of fruits,bbch_20_29,,,,no_GT,0,,,veg
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,batch of fruits,bbch_50_59,,,,no_GT,0,,,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,batch of fruits,bbch_60_69,,,,no_GT,0,,,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,batch of fruits,bbch_70_79,,,,no_GT,0,,,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,batch of fruits,bbch_80_89,,,,no_GT,0,,,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,leaf,bbch_10_19,8497.0,0.8559,0.6262,Y,1,bbch_10_19..bbch_10_19,bbch_10_19..bbch_10_19,veg
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,leaf,bbch_20_29,,,,no_GT,1,bbch_10_19..bbch_10_19,bbch_10_19..bbch_10_19,veg
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,leaf,bbch_50_59,,,,no_GT,1,bbch_10_19..bbch_10_19,bbch_10_19..bbch_10_19,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,leaf,bbch_60_69,,,,no_GT,1,bbch_10_19..bbch_10_19,bbch_10_19..bbch_10_19,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,leaf,bbch_70_79,,,,no_GT,1,bbch_10_19..bbch_10_19,bbch_10_19..bbch_10_19,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,leaf,bbch_80_89,,,,no_GT,1,bbch_10_19..bbch_10_19,bbch_10_19..bbch_10_19,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,rispe,bbch_10_19,,,,no_GT,0,,,veg
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,rispe,bbch_20_29,,,,no_GT,0,,,veg
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,rispe,bbch_50_59,,,,no_GT,0,,,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,rispe,bbch_60_69,,,,no_GT,0,,,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,rispe,bbch_70_79,,,,no_GT,0,,,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,rispe,bbch_80_89,,,,no_GT,0,,,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,shoot,bbch_10_19,,,,no_GT,0,,,veg
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,shoot,bbch_20_29,,,,no_GT,0,,,veg
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,shoot,bbch_50_59,,,,no_GT,0,,,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,shoot,bbch_60_69,,,,no_GT,0,,,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,shoot,bbch_70_79,,,,no_GT,0,,,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,shoot,bbch_80_89,,,,no_GT,0,,,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,whole plant,bbch_10_19,1619.0,0.5859,0.393,Y,1,bbch_10_19..bbch_10_19,bbch_10_19..bbch_10_19,veg
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,whole plant,bbch_20_29,,,,no_GT,1,bbch_10_19..bbch_10_19,bbch_10_19..bbch_10_19,veg
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,whole plant,bbch_50_59,,,,no_GT,1,bbch_10_19..bbch_10_19,bbch_10_19..bbch_10_19,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,whole plant,bbch_60_69,,,,no_GT,1,bbch_10_19..bbch_10_19,bbch_10_19..bbch_10_19,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,whole plant,bbch_70_79,,,,no_GT,1,bbch_10_19..bbch_10_19,bbch_10_19..bbch_10_19,rep
+stage_holdout_rev__yolo11s__img800__e60__b16__rev,stage_holdout_rev,cam2_horizontal90,whole plant,bbch_80_89,,,,no_GT,1,bbch_10_19..bbch_10_19,bbch_10_19..bbch_10_19,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,axillary shoot,bbch_10_19,3.0,0.0096,0.0038,n,2,bbch_60_69..bbch_70_79,bbch_10_19..bbch_80_89,veg
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,axillary shoot,bbch_20_29,,,,no_GT,2,bbch_60_69..bbch_70_79,bbch_10_19..bbch_80_89,veg
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,axillary shoot,bbch_50_59,1.0,0.4975,0.2985,n,2,bbch_60_69..bbch_70_79,bbch_10_19..bbch_80_89,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,axillary shoot,bbch_60_69,53.0,0.381,0.1351,Y,2,bbch_60_69..bbch_70_79,bbch_10_19..bbch_80_89,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,axillary shoot,bbch_70_79,61.0,0.3846,0.1362,Y,2,bbch_60_69..bbch_70_79,bbch_10_19..bbch_80_89,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,axillary shoot,bbch_80_89,6.0,0.0893,0.0777,n,2,bbch_60_69..bbch_70_79,bbch_10_19..bbch_80_89,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,batch of flowers,bbch_10_19,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,veg
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,batch of flowers,bbch_20_29,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,veg
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,batch of flowers,bbch_50_59,13.0,0.367,0.2021,n,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,batch of flowers,bbch_60_69,527.0,0.8005,0.4751,Y,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,batch of flowers,bbch_70_79,966.0,0.6182,0.3472,Y,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,batch of flowers,bbch_80_89,58.0,0.3145,0.1568,Y,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,batch of fruits,bbch_10_19,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,veg
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,batch of fruits,bbch_20_29,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,veg
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,batch of fruits,bbch_50_59,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,batch of fruits,bbch_60_69,1.0,0.0022,0.0013,n,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,batch of fruits,bbch_70_79,1389.0,0.8056,0.5584,Y,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,batch of fruits,bbch_80_89,702.0,0.8994,0.6914,Y,2,bbch_70_79..bbch_80_89,bbch_60_69..bbch_80_89,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,leaf,bbch_10_19,1039.0,0.9421,0.7238,Y,5,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,leaf,bbch_20_29,,,,no_GT,5,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,leaf,bbch_50_59,1145.0,0.936,0.7379,Y,5,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,leaf,bbch_60_69,3119.0,0.9087,0.6974,Y,5,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,leaf,bbch_70_79,8042.0,0.8921,0.6805,Y,5,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,leaf,bbch_80_89,1844.0,0.8937,0.6863,Y,5,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,rispe,bbch_10_19,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,veg
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,rispe,bbch_20_29,,,,no_GT,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,veg
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,rispe,bbch_50_59,10.0,0.4572,0.2565,n,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,rispe,bbch_60_69,470.0,0.8599,0.5509,Y,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,rispe,bbch_70_79,1817.0,0.7495,0.4909,Y,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,rispe,bbch_80_89,687.0,0.8828,0.6614,Y,3,bbch_60_69..bbch_80_89,bbch_50_59..bbch_80_89,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,shoot,bbch_10_19,,,,no_GT,0,,bbch_60_69..bbch_70_79,veg
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,shoot,bbch_20_29,,,,no_GT,0,,bbch_60_69..bbch_70_79,veg
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,shoot,bbch_50_59,,,,no_GT,0,,bbch_60_69..bbch_70_79,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,shoot,bbch_60_69,12.0,0.1058,0.0276,n,0,,bbch_60_69..bbch_70_79,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,shoot,bbch_70_79,6.0,0.09,0.0246,n,0,,bbch_60_69..bbch_70_79,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,shoot,bbch_80_89,,,,no_GT,0,,bbch_60_69..bbch_70_79,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,whole plant,bbch_10_19,180.0,0.995,0.9516,Y,5,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,whole plant,bbch_20_29,,,,no_GT,5,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,veg
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,whole plant,bbch_50_59,132.0,0.995,0.9728,Y,5,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,whole plant,bbch_60_69,324.0,0.995,0.9644,Y,5,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,whole plant,bbch_70_79,858.0,0.9942,0.8936,Y,5,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+stage_strat__yolo11s__img800__e60__b16__b1,stage_strat,cam2_horizontal90,whole plant,bbch_80_89,264.0,0.995,0.8823,Y,5,bbch_10_19..bbch_80_89,bbch_10_19..bbch_80_89,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,axillary shoot,bbch_10_19,,,,no_GT,0,,bbch_70_79..bbch_80_89,veg
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,axillary shoot,bbch_20_29,,,,no_GT,0,,bbch_70_79..bbch_80_89,veg
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,axillary shoot,bbch_50_59,,,,no_GT,0,,bbch_70_79..bbch_80_89,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,axillary shoot,bbch_60_69,,,,no_GT,0,,bbch_70_79..bbch_80_89,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,axillary shoot,bbch_70_79,3.0,0.0017,0.0008,n,0,,bbch_70_79..bbch_80_89,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,axillary shoot,bbch_80_89,1.0,0.0,0.0,n,0,,bbch_70_79..bbch_80_89,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,batch of flowers,bbch_10_19,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,veg
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,batch of flowers,bbch_20_29,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,veg
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,batch of flowers,bbch_50_59,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,batch of flowers,bbch_60_69,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,batch of flowers,bbch_70_79,248.0,0.3916,0.2068,Y,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,batch of flowers,bbch_80_89,272.0,0.235,0.1125,Y,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,batch of fruits,bbch_10_19,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,veg
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,batch of fruits,bbch_20_29,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,veg
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,batch of fruits,bbch_50_59,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,batch of fruits,bbch_60_69,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,batch of fruits,bbch_70_79,1559.0,0.8756,0.6277,Y,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,batch of fruits,bbch_80_89,3031.0,0.8732,0.6262,Y,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,leaf,bbch_10_19,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,veg
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,leaf,bbch_20_29,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,veg
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,leaf,bbch_50_59,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,leaf,bbch_60_69,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,leaf,bbch_70_79,5995.0,0.8926,0.6921,Y,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,leaf,bbch_80_89,7399.0,0.8499,0.6098,Y,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,rispe,bbch_10_19,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,veg
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,rispe,bbch_20_29,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,veg
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,rispe,bbch_50_59,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,rispe,bbch_60_69,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,rispe,bbch_70_79,1471.0,0.7998,0.5549,Y,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,rispe,bbch_80_89,2828.0,0.8355,0.5848,Y,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,shoot,bbch_10_19,,,,no_GT,0,,,veg
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,shoot,bbch_20_29,,,,no_GT,0,,,veg
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,shoot,bbch_50_59,,,,no_GT,0,,,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,shoot,bbch_60_69,,,,no_GT,0,,,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,shoot,bbch_70_79,,,,no_GT,0,,,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,shoot,bbch_80_89,,,,no_GT,0,,,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,whole plant,bbch_10_19,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,veg
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,whole plant,bbch_20_29,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,veg
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,whole plant,bbch_50_59,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,whole plant,bbch_60_69,,,,no_GT,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,whole plant,bbch_70_79,586.0,0.985,0.8186,Y,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+temporal_fwd__yolo11s__img800__e60__b16__b1,temporal_fwd,cam2_horizontal90,whole plant,bbch_80_89,1106.0,0.995,0.8733,Y,2,bbch_70_79..bbch_80_89,bbch_70_79..bbch_80_89,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,axillary shoot,bbch_10_19,38.0,0.0042,0.0005,Y,5,bbch_10_19..bbch_70_79,bbch_10_19..bbch_70_79,veg
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,axillary shoot,bbch_20_29,75.0,0.0001,0.0,Y,5,bbch_10_19..bbch_70_79,bbch_10_19..bbch_70_79,veg
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,axillary shoot,bbch_50_59,84.0,0.0205,0.0056,Y,5,bbch_10_19..bbch_70_79,bbch_10_19..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,axillary shoot,bbch_60_69,401.0,0.0365,0.0103,Y,5,bbch_10_19..bbch_70_79,bbch_10_19..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,axillary shoot,bbch_70_79,152.0,0.0185,0.0051,Y,5,bbch_10_19..bbch_70_79,bbch_10_19..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,axillary shoot,bbch_80_89,,,,no_GT,5,bbch_10_19..bbch_70_79,bbch_10_19..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,batch of flowers,bbch_10_19,1.0,0.0,0.0,n,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_70_79,veg
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,batch of flowers,bbch_20_29,2.0,0.045,0.0133,n,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_70_79,veg
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,batch of flowers,bbch_50_59,87.0,0.2713,0.0983,Y,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,batch of flowers,bbch_60_69,491.0,0.4403,0.1722,Y,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,batch of flowers,bbch_70_79,106.0,0.5628,0.2117,Y,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,batch of flowers,bbch_80_89,,,,no_GT,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,batch of fruits,bbch_10_19,,,,no_GT,1,bbch_70_79..bbch_70_79,bbch_60_69..bbch_70_79,veg
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,batch of fruits,bbch_20_29,,,,no_GT,1,bbch_70_79..bbch_70_79,bbch_60_69..bbch_70_79,veg
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,batch of fruits,bbch_50_59,,,,no_GT,1,bbch_70_79..bbch_70_79,bbch_60_69..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,batch of fruits,bbch_60_69,1.0,0.0,0.0,n,1,bbch_70_79..bbch_70_79,bbch_60_69..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,batch of fruits,bbch_70_79,36.0,0.059,0.0216,Y,1,bbch_70_79..bbch_70_79,bbch_60_69..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,batch of fruits,bbch_80_89,,,,no_GT,1,bbch_70_79..bbch_70_79,bbch_60_69..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,leaf,bbch_10_19,2390.0,0.9029,0.6588,Y,5,bbch_10_19..bbch_70_79,bbch_10_19..bbch_70_79,veg
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,leaf,bbch_20_29,1192.0,0.7606,0.5001,Y,5,bbch_10_19..bbch_70_79,bbch_10_19..bbch_70_79,veg
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,leaf,bbch_50_59,2376.0,0.7809,0.5536,Y,5,bbch_10_19..bbch_70_79,bbch_10_19..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,leaf,bbch_60_69,7336.0,0.7752,0.5312,Y,5,bbch_10_19..bbch_70_79,bbch_10_19..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,leaf,bbch_70_79,1298.0,0.7718,0.4897,Y,5,bbch_10_19..bbch_70_79,bbch_10_19..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,leaf,bbch_80_89,,,,no_GT,5,bbch_10_19..bbch_70_79,bbch_10_19..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,rispe,bbch_10_19,4.0,0.0087,0.0035,n,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_70_79,veg
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,rispe,bbch_20_29,1.0,0.0905,0.009,n,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_70_79,veg
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,rispe,bbch_50_59,105.0,0.386,0.1485,Y,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,rispe,bbch_60_69,516.0,0.4454,0.2018,Y,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,rispe,bbch_70_79,114.0,0.2325,0.0921,Y,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,rispe,bbch_80_89,,,,no_GT,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,shoot,bbch_10_19,2.0,0.0,0.0,n,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_70_79,veg
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,shoot,bbch_20_29,19.0,0.0,0.0,n,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_70_79,veg
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,shoot,bbch_50_59,30.0,0.0,0.0,Y,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,shoot,bbch_60_69,174.0,0.0,0.0,Y,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,shoot,bbch_70_79,46.0,0.0,0.0,Y,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,shoot,bbch_80_89,,,,no_GT,3,bbch_50_59..bbch_70_79,bbch_10_19..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,whole plant,bbch_10_19,240.0,0.995,0.9869,Y,5,bbch_10_19..bbch_70_79,bbch_10_19..bbch_70_79,veg
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,whole plant,bbch_20_29,84.0,0.995,0.9549,Y,5,bbch_10_19..bbch_70_79,bbch_10_19..bbch_70_79,veg
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,whole plant,bbch_50_59,168.0,0.995,0.9349,Y,5,bbch_10_19..bbch_70_79,bbch_10_19..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,whole plant,bbch_60_69,421.0,0.995,0.8977,Y,5,bbch_10_19..bbch_70_79,bbch_10_19..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,whole plant,bbch_70_79,60.0,0.995,0.9146,Y,5,bbch_10_19..bbch_70_79,bbch_10_19..bbch_70_79,rep
+temporal_rev__yolo11s__img800__e60__b16__b1,temporal_rev,cam2_horizontal90,whole plant,bbch_80_89,,,,no_GT,5,bbch_10_19..bbch_70_79,bbch_10_19..bbch_70_79,rep

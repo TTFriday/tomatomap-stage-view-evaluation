@@ -1,0 +1,31 @@
+{
+  "iters": 500,
+  "seed": 20261117,
+  "n_images_per_camera": 1612,
+  "n_plant": 100,
+  "common_class_ids": [
+    0,
+    3
+  ],
+  "window_support": {
+    "all": {
+      "n_img": 1612,
+      "n_plant": 100
+    },
+    "rep_start": {
+      "n_img": 121,
+      "n_plant": 45
+    },
+    "rep_end": {
+      "n_img": 243,
+      "n_plant": 74
+    }
+  },
+  "sources_sha256": {
+    "boot/per_set__e60__last__per_set__cam1_bottom45__test.npz": "336f187541630d555240c0672e28e476fd42aee52685fd8ae064670cde1e8ca9",
+    "boot/per_set__e60__last__per_set__cam2_horizontal90__test.npz": "bbddf441c29a78f6d1835b7639ace34f97683d57c27ab49ec106fdc545d25141",
+    "boot/per_set__e60__last__per_set__cam3_tilttop135__test.npz": "891555c92faf4ce0cf2e9773181d07673e2a69e9ecfd6653f2dd675b5df02ddf",
+    "boot/per_set__e60__last__per_set__cam4_vertical180__test.npz": "47deff004f11817c0bca21bc0a625b5c49d5e87cd3196a9a4d17b0a8ac8f4986"
+  },
+  "note": "No absent-class imputation. Undefined resample metrics are omitted and n_valid reported. Camera populations are matched by image_set_id, not organ instance identity."
+}
